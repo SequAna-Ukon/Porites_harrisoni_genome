@@ -10,7 +10,18 @@ Genome size estimation plot based on k-mer distribution (k = 21) using a histogr
 
 ### Figure 3
 
-BlobToolKit v4.3.0 quality assessment of the *Porites harrisoni* genome assembly 
+BlobToolKit v4.3.0 quality assessment of the *Porites harrisoni* genome assembly to be run remotely
+
+#!/bin/bash
+
+conda create -n btk python=3.9
+conda activate btk
+pip install blobtoolkit
+
+blobtools view --remote /figures/PAG_UKon_Phar_BTK/
+
+
+
 
 ### Figure 4
 
