@@ -6,7 +6,7 @@ Cladogram based on a simple species tree generated with the NCBI ETE v3.1.3 tool
 
 ### Figure 2
 
-Genome size estimation plot based on k-mer distribution (k = 21) using Meryl v1.3 (Phar_ONT_meryl_histogram.tabular) and GenomeScope 2.0.
+Genome size estimation plot based on k-mer distribution (k = 21) using Meryl v1.3 (**/figures/Phar_ONT_meryl_histogram.tabular**) and GenomeScope 2.0.
 
 ### Figure 3
 
