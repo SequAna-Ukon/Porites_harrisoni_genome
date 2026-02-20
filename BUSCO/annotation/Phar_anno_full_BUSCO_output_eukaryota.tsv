@@ -1,0 +1,331 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: eukaryota_odb10 (Creation date: 2024-01-08, number of genomes: 70, number of BUSCOs: 255)
+# Busco id	Status	Sequence	Score	Length	OrthoDB url	Description
+39650at2759	Duplicated	KAM7450934.1	2150.9	1407	https://v10-1.orthodb.org/?query=39650at2759	DNA polymerase epsilon catalytic subunit
+39650at2759	Duplicated	KAM7450932.1	1892.0	1015	https://v10-1.orthodb.org/?query=39650at2759	DNA polymerase epsilon catalytic subunit
+83779at2759	Complete	KAM7436575.1	262.8	231	https://v10-1.orthodb.org/?query=83779at2759	Asparagine synthase
+87842at2759	Complete	KAM7434776.1	627.8	643	https://v10-1.orthodb.org/?query=87842at2759	Pep3/Vps18/deep orange
+97116at2759	Complete	KAM7441316.1	1298.9	956	https://v10-1.orthodb.org/?query=97116at2759	WD40/YVTN repeat-like-containing domain superfamily
+100698at2759	Duplicated	KAM7447615.1	838.1	498	https://v10-1.orthodb.org/?query=100698at2759	Helicase, C-terminal
+100698at2759	Duplicated	KAM7447616.1	838.0	498	https://v10-1.orthodb.org/?query=100698at2759	Helicase, C-terminal
+142542at2759	Duplicated	KAM7451903.1	729.0	653	https://v10-1.orthodb.org/?query=142542at2759	Transcription initiation factor TFIID subunit 2
+142542at2759	Duplicated	KAM7451902.1	713.9	614	https://v10-1.orthodb.org/?query=142542at2759	Transcription initiation factor TFIID subunit 2
+156083at2759	Complete	KAM7446265.1	3605.9	1908	https://v10-1.orthodb.org/?query=156083at2759	Pre-mRNA-processing-splicing factor 8
+160593at2759	Complete	KAM7445609.1	1470.1	1308	https://v10-1.orthodb.org/?query=160593at2759	Translational activator Gcn1
+166920at2759	Complete	KAM7438319.1	779.5	778	https://v10-1.orthodb.org/?query=166920at2759	Condensin complex subunit 1
+176625at2759	Missing
+179362at2759	Complete	KAM7441352.1	701.4	938	https://v10-1.orthodb.org/?query=179362at2759	Rad50/SbcC-type AAA domain
+245208at2759	Duplicated	KAM7436382.1	1547.1	845	https://v10-1.orthodb.org/?query=245208at2759	Splicing factor 3B subunit 1
+245208at2759	Duplicated	KAM7436381.1	1545.9	845	https://v10-1.orthodb.org/?query=245208at2759	Splicing factor 3B subunit 1
+257318at2759	Complete	KAM7442760.1	337.6	303	https://v10-1.orthodb.org/?query=257318at2759	digestive organ expansion factor homolog
+261328at2759	Duplicated	KAM7437871.1	441.2	418	https://v10-1.orthodb.org/?query=261328at2759	WD40 repeat
+261328at2759	Duplicated	KAM7428676.1	440.8	418	https://v10-1.orthodb.org/?query=261328at2759	WD40 repeat
+261419at2759	Duplicated	KAM7433151.1	351.7	417	https://v10-1.orthodb.org/?query=261419at2759	Ribosome control protein 1
+261419at2759	Duplicated	KAM7434852.1	351.5	417	https://v10-1.orthodb.org/?query=261419at2759	Ribosome control protein 1
+270107at2759	Duplicated	KAM7452479.1	633.4	602	https://v10-1.orthodb.org/?query=270107at2759	GPI ethanolamine phosphate transferase 1
+270107at2759	Duplicated	KAM7452481.1	587.0	574	https://v10-1.orthodb.org/?query=270107at2759	GPI ethanolamine phosphate transferase 1
+271586at2759	Missing
+290630at2759	Duplicated	KAM7440613.1	699.9	548	https://v10-1.orthodb.org/?query=290630at2759	WD40 repeat
+290630at2759	Duplicated	KAM7440614.1	699.9	548	https://v10-1.orthodb.org/?query=290630at2759	WD40 repeat
+293315at2759	Missing
+296129at2759	Complete	KAM7435703.1	1108.8	697	https://v10-1.orthodb.org/?query=296129at2759	RNA cytidine acetyltransferase
+299766at2759	Complete	KAM7442243.1	492.4	436	https://v10-1.orthodb.org/?query=299766at2759	DNA polymerase, Y-family, little finger domain
+306227at2759	Missing
+320059at2759	Duplicated	KAM7449490.1	899.9	452	https://v10-1.orthodb.org/?query=320059at2759	Radical SAM
+320059at2759	Duplicated	KAM7449491.1	876.9	452	https://v10-1.orthodb.org/?query=320059at2759	Radical SAM
+324863at2759	Duplicated	KAM7425738.1	690.4	568	https://v10-1.orthodb.org/?query=324863at2759	RuvA domain 2-like
+324863at2759	Duplicated	KAM7431156.1	690.1	568	https://v10-1.orthodb.org/?query=324863at2759	RuvA domain 2-like
+325552at2759	Complete	KAM7435622.1	480.6	377	https://v10-1.orthodb.org/?query=325552at2759	WD40 repeat
+330169at2759	Duplicated	KAM7430828.1	349.0	321	https://v10-1.orthodb.org/?query=330169at2759	Mannosyltransferase
+330169at2759	Duplicated	KAM7442515.1	340.9	321	https://v10-1.orthodb.org/?query=330169at2759	Mannosyltransferase
+331411at2759	Complete	KAM7426930.1	407.5	401	https://v10-1.orthodb.org/?query=331411at2759	Tetratricopeptide-like helical domain superfamily
+341721at2759	Duplicated	KAM7444885.1	330.2	376	https://v10-1.orthodb.org/?query=341721at2759	Nucleolar complex-associated protein 3
+341721at2759	Duplicated	KAM7444886.1	313.7	376	https://v10-1.orthodb.org/?query=341721at2759	Nucleolar complex-associated protein 3
+345441at2759	Complete	KAM7450821.1	462.4	380	https://v10-1.orthodb.org/?query=345441at2759	Phosphoacetylglucosamine mutase
+355408at2759	Complete	KAM7444102.1	814.3	554	https://v10-1.orthodb.org/?query=355408at2759	Tetratricopeptide repeat-containing domain
+369837at2759	Fragmented	KAM7436643.1	67.6	175	https://v10-1.orthodb.org/?query=369837at2759	Translation initiation factor eIF-2B subunit epsilon
+375960at2759	Missing
+383503at2759	Complete	KAM7436444.1	376.8	347	https://v10-1.orthodb.org/?query=383503at2759	Splicing factor 3A subunit 3
+388820at2759	Complete	KAM7444596.1	647.3	596	https://v10-1.orthodb.org/?query=388820at2759	WD40 repeat
+390348at2759	Complete	KAM7446728.1	1191.7	738	https://v10-1.orthodb.org/?query=390348at2759	Pyridoxal phosphate-dependent transferase
+392369at2759	Duplicated	KAM7439596.1	386.1	346	https://v10-1.orthodb.org/?query=392369at2759	GMP synthase, C-terminal
+392369at2759	Duplicated	KAM7439597.1	357.4	334	https://v10-1.orthodb.org/?query=392369at2759	GMP synthase, C-terminal
+396755at2759	Fragmented	KAM7434027.1	178.3	98	https://v10-1.orthodb.org/?query=396755at2759	Tetratricopeptide repeat
+418107at2759	Duplicated	KAM7438806.1	354.7	298	https://v10-1.orthodb.org/?query=418107at2759	WD40-repeat-containing domain
+418107at2759	Duplicated	KAM7425520.1	354.6	298	https://v10-1.orthodb.org/?query=418107at2759	WD40-repeat-containing domain
+418107at2759	Duplicated	KAM7438807.1	354.5	298	https://v10-1.orthodb.org/?query=418107at2759	WD40-repeat-containing domain
+426305at2759	Complete	KAM7438543.1	564.2	478	https://v10-1.orthodb.org/?query=426305at2759	Sda1
+450058at2759	Duplicated	KAM7434923.1	245.4	283	https://v10-1.orthodb.org/?query=450058at2759	Reduced growth phenotype protein 1
+450058at2759	Duplicated	KAM7434924.1	245.1	283	https://v10-1.orthodb.org/?query=450058at2759	Reduced growth phenotype protein 1
+453044at2759	Complete	KAM7451044.1	356.7	290	https://v10-1.orthodb.org/?query=453044at2759	Zinc finger, ZPR1-type
+457861at2759	Complete	KAM7441029.1	104.0	141	https://v10-1.orthodb.org/?query=457861at2759	Autophagy protein 5
+464990at2759	Missing
+491869at2759	Duplicated	KAM7451374.1	267.6	254	https://v10-1.orthodb.org/?query=491869at2759	Protein arginine methyltransferase NDUFAF7
+491869at2759	Duplicated	KAM7451375.1	236.5	233	https://v10-1.orthodb.org/?query=491869at2759	Protein arginine methyltransferase NDUFAF7
+513979at2759	Complete	KAM7435072.1	186.5	225	https://v10-1.orthodb.org/?query=513979at2759	DNA polymerase alpha subunit B
+543764at2759	Complete	KAM7433479.1	224.1	234	https://v10-1.orthodb.org/?query=543764at2759	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6
+549762at2759	Complete	KAM7429954.1	527.3	404	https://v10-1.orthodb.org/?query=549762at2759	Ubiquitin-like modifier-activating enzyme Atg7
+551907at2759	Complete	KAM7445050.1	352.0	327	https://v10-1.orthodb.org/?query=551907at2759	CCAAT-binding factor
+570797at2759	Complete	KAM7445206.1	587.2	490	https://v10-1.orthodb.org/?query=570797at2759	Winged helix-like DNA-binding domain superfamily
+582756at2759	Missing
+598949at2759	Complete	KAM7444286.1	474.8	384	https://v10-1.orthodb.org/?query=598949at2759	AP-3 complex subunit delta
+604979at2759	Complete	KAM7436135.1	457.0	293	https://v10-1.orthodb.org/?query=604979at2759	WD40-repeat-containing domain
+621827at2759	Complete	KAM7449591.1	247.0	240	https://v10-1.orthodb.org/?query=621827at2759	WD40-repeat-containing domain
+625387at2759	Missing
+655400at2759	Complete	KAM7448919.1	302.4	280	https://v10-1.orthodb.org/?query=655400at2759	Ubiquinone biosynthesis monooxygenase COQ6
+664730at2759	Complete	KAM7432188.1	231.0	324	https://v10-1.orthodb.org/?query=664730at2759	Pyridoxal phosphate-dependent transferase
+671536at2759	Complete	KAM7432861.1	521.4	363	https://v10-1.orthodb.org/?query=671536at2759	Tetratricopeptide repeat
+671846at2759	Complete	KAM7445478.1	297.7	426	https://v10-1.orthodb.org/?query=671846at2759	Nuclear pore protein 84/107
+673132at2759	Missing
+674160at2759	Missing
+674169at2759	Missing
+679187at2759	Complete	KAM7434060.1	476.4	419	https://v10-1.orthodb.org/?query=679187at2759	Gamma-tubulin complex component
+679771at2759	Complete	KAM7435704.1	130.6	171	https://v10-1.orthodb.org/?query=679771at2759	Eukaryotic translation initiation factor 3 subunit M
+687505at2759	Complete	KAM7446631.1	211.5	214	https://v10-1.orthodb.org/?query=687505at2759	DnaJ domain
+692986at2759	Complete	KAM7435976.1	352.4	385	https://v10-1.orthodb.org/?query=692986at2759	Conserved oligomeric Golgi complex, subunit 3
+708105at2759	Complete	KAM7448031.1	178.5	207	https://v10-1.orthodb.org/?query=708105at2759	Histone acetyltransferase type B catalytic subunit
+719531at2759	Complete	KAM7437308.1	429.3	284	https://v10-1.orthodb.org/?query=719531at2759	PIGA, GPI anchor biosynthesis
+720340at2759	Complete	KAM7429176.1	195.7	224	https://v10-1.orthodb.org/?query=720340at2759	Cell division control protein 73, C-terminal
+721605at2759	Duplicated	KAM7446248.1	324.4	243	https://v10-1.orthodb.org/?query=721605at2759	NAD(P)-binding domain
+721605at2759	Duplicated	KAM7425449.1	323.6	243	https://v10-1.orthodb.org/?query=721605at2759	NAD(P)-binding domain
+722805at2759	Duplicated	KAM7425245.1	413.0	419	https://v10-1.orthodb.org/?query=722805at2759	WD40/YVTN repeat-like-containing domain superfamily
+722805at2759	Duplicated	KAM7425246.1	408.4	416	https://v10-1.orthodb.org/?query=722805at2759	WD40/YVTN repeat-like-containing domain superfamily
+734341at2759	Complete	KAM7448381.1	132.8	164	https://v10-1.orthodb.org/?query=734341at2759	ATP12, ATP synthase F1-assembly protein
+734666at2759	Duplicated	KAM7434444.1	509.0	371	https://v10-1.orthodb.org/?query=734666at2759	60S ribosomal export protein NMD3
+734666at2759	Duplicated	KAM7434445.1	508.7	371	https://v10-1.orthodb.org/?query=734666at2759	60S ribosomal export protein NMD3
+736068at2759	Missing
+751335at2759	Duplicated	KAM7435215.1	270.2	296	https://v10-1.orthodb.org/?query=751335at2759	ATPase, V1 complex, subunit H
+751335at2759	Duplicated	KAM7425283.1	254.9	264	https://v10-1.orthodb.org/?query=751335at2759	ATPase, V1 complex, subunit H
+751335at2759	Duplicated	KAM7425282.1	254.6	264	https://v10-1.orthodb.org/?query=751335at2759	ATPase, V1 complex, subunit H
+759498at2759	Missing
+761109at2759	Missing
+768809at2759	Duplicated	KAM7430924.1	295.4	227	https://v10-1.orthodb.org/?query=768809at2759	Zinc finger C2H2-type
+768809at2759	Duplicated	KAM7430923.1	294.6	227	https://v10-1.orthodb.org/?query=768809at2759	Zinc finger C2H2-type
+768809at2759	Duplicated	KAM7430922.1	292.8	227	https://v10-1.orthodb.org/?query=768809at2759	Zinc finger C2H2-type
+774318at2759	Complete	KAM7443174.1	348.4	272	https://v10-1.orthodb.org/?query=774318at2759	Dol-P-Man
+777920at2759	Complete	KAM7430557.1	448.3	339	https://v10-1.orthodb.org/?query=777920at2759	Pescadillo
+779909at2759	Duplicated	KAM7448420.1	279.3	227	https://v10-1.orthodb.org/?query=779909at2759	WD40 repeat
+779909at2759	Duplicated	KAM7448421.1	279.3	227	https://v10-1.orthodb.org/?query=779909at2759	WD40 repeat
+801857at2759	Complete	KAM7441312.1	237.2	210	https://v10-1.orthodb.org/?query=801857at2759	tRNA-dihydrouridine synthase
+814241at2759	Missing
+817008at2759	Duplicated	KAM7435818.1	494.5	298	https://v10-1.orthodb.org/?query=817008at2759	Aminoacyl-tRNA synthetase, class Ic
+817008at2759	Duplicated	KAM7435819.1	494.2	298	https://v10-1.orthodb.org/?query=817008at2759	Aminoacyl-tRNA synthetase, class Ic
+817008at2759	Duplicated	KAM7442403.1	488.9	298	https://v10-1.orthodb.org/?query=817008at2759	Aminoacyl-tRNA synthetase, class Ic
+834694at2759	Complete	KAM7448085.1	453.9	330	https://v10-1.orthodb.org/?query=834694at2759	Mre11, DNA-binding
+836599at2759	Complete	KAM7426859.1	427.7	316	https://v10-1.orthodb.org/?query=836599at2759	26S proteasome non-ATPase regulatory subunit 3
+844748at2759	Duplicated	KAM7430944.1	333.9	364	https://v10-1.orthodb.org/?query=844748at2759	Bacterial surface antigen (D15)
+844748at2759	Duplicated	KAM7430945.1	333.7	364	https://v10-1.orthodb.org/?query=844748at2759	Bacterial surface antigen (D15)
+855834at2759	Complete	KAM7450438.1	258.5	311	https://v10-1.orthodb.org/?query=855834at2759	RNA polymerase I specific transcription initiation factor RRN3
+858842at2759	Missing
+865202at2759	Complete	KAM7440254.1	217.6	181	https://v10-1.orthodb.org/?query=865202at2759	Initiation factor 2B-related
+866359at2759	Missing
+869548at2759	Missing
+878143at2759	Complete	KAM7446682.1	406.2	322	https://v10-1.orthodb.org/?query=878143at2759	CAAX prenyl protease 1
+887370at2759	Missing
+891751at2759	Duplicated	KAM7439425.1	276.1	231	https://v10-1.orthodb.org/?query=891751at2759	CCAAT-binding factor
+891751at2759	Duplicated	KAM7427375.1	275.8	231	https://v10-1.orthodb.org/?query=891751at2759	CCAAT-binding factor
+898782at2759	Missing
+901894at2759	Complete	KAM7450858.1	331.5	329	https://v10-1.orthodb.org/?query=901894at2759	Mannosyltransferase
+905026at2759	Complete	KAM7444722.1	401.8	400	https://v10-1.orthodb.org/?query=905026at2759	Tetratricopeptide repeat
+911863at2759	Complete	KAM7440327.1	238.5	205	https://v10-1.orthodb.org/?query=911863at2759	Protein phosphatase methylesterase 1
+917326at2759	Duplicated	KAM7446521.1	505.1	428	https://v10-1.orthodb.org/?query=917326at2759	Sec1-like protein
+917326at2759	Duplicated	KAM7425260.1	504.8	428	https://v10-1.orthodb.org/?query=917326at2759	Sec1-like protein
+918816at2759	Duplicated	KAM7444612.1	190.5	218	https://v10-1.orthodb.org/?query=918816at2759	DNA methyltransferase 1-associated 1
+918816at2759	Duplicated	KAM7444611.1	190.3	218	https://v10-1.orthodb.org/?query=918816at2759	DNA methyltransferase 1-associated 1
+919955at2759	Duplicated	KAM7428423.1	293.0	263	https://v10-1.orthodb.org/?query=919955at2759	26S Proteasome non-ATPase regulatory subunit 13
+919955at2759	Duplicated	KAM7428424.1	293.0	263	https://v10-1.orthodb.org/?query=919955at2759	26S Proteasome non-ATPase regulatory subunit 13
+919955at2759	Duplicated	KAM7452637.1	293.0	263	https://v10-1.orthodb.org/?query=919955at2759	26S Proteasome non-ATPase regulatory subunit 13
+923657at2759	Complete	KAM7441127.1	155.7	168	https://v10-1.orthodb.org/?query=923657at2759	Surfeit locus 1/Shy1
+924753at2759	Duplicated	KAM7425764.1	207.8	219	https://v10-1.orthodb.org/?query=924753at2759	tRNA guanosine-2'-O-methyltransferase, TRM11
+924753at2759	Duplicated	KAM7439012.1	207.8	219	https://v10-1.orthodb.org/?query=924753at2759	tRNA guanosine-2'-O-methyltransferase, TRM11
+924753at2759	Duplicated	KAM7431331.1	205.0	219	https://v10-1.orthodb.org/?query=924753at2759	tRNA guanosine-2'-O-methyltransferase, TRM11
+931188at2759	Complete	KAM7451810.1	492.2	346	https://v10-1.orthodb.org/?query=931188at2759	Zinc finger, RING/FYVE/PHD-type
+937275at2759	Complete	KAM7432276.1	64.1	87	https://v10-1.orthodb.org/?query=937275at2759	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit
+937686at2759	Missing
+939345at2759	Duplicated	KAM7444817.1	122.0	99	https://v10-1.orthodb.org/?query=939345at2759	Repressor of RNA polymerase III transcription MAF1
+939345at2759	Duplicated	KAM7428975.1	121.9	99	https://v10-1.orthodb.org/?query=939345at2759	Repressor of RNA polymerase III transcription MAF1
+939345at2759	Duplicated	KAM7444818.1	121.9	99	https://v10-1.orthodb.org/?query=939345at2759	Repressor of RNA polymerase III transcription MAF1
+944899at2759	Duplicated	KAM7425789.1	385.7	232	https://v10-1.orthodb.org/?query=944899at2759	KRR1 small subunit processome component
+944899at2759	Duplicated	KAM7443488.1	385.7	232	https://v10-1.orthodb.org/?query=944899at2759	KRR1 small subunit processome component
+946128at2759	Missing
+956854at2759	Complete	KAM7450802.1	192.4	172	https://v10-1.orthodb.org/?query=956854at2759	Tetratricopeptide repeat
+973442at2759	Fragmented	KAM7424880.1	65.9	57	https://v10-1.orthodb.org/?query=973442at2759	Elongator complex protein 4
+974865at2759	Complete	KAM7440894.1	266.8	228	https://v10-1.orthodb.org/?query=974865at2759	Brix domain
+975158at2759	Complete	KAM7445306.1	257.2	274	https://v10-1.orthodb.org/?query=975158at2759	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48kDa subunit
+975557at2759	Complete	KAM7432462.1	575.3	462	https://v10-1.orthodb.org/?query=975557at2759	cell division cycle 5-like protein
+976469at2759	Complete	KAM7451921.1	219.0	232	https://v10-1.orthodb.org/?query=976469at2759	Eukaryotic translation initiation factor 3 subunit H
+981902at2759	Duplicated	KAM7437493.1	217.3	215	https://v10-1.orthodb.org/?query=981902at2759	Winged helix-like DNA-binding domain superfamily
+981902at2759	Duplicated	KAM7431632.1	216.7	215	https://v10-1.orthodb.org/?query=981902at2759	Winged helix-like DNA-binding domain superfamily
+981902at2759	Duplicated	KAM7431633.1	216.2	215	https://v10-1.orthodb.org/?query=981902at2759	Winged helix-like DNA-binding domain superfamily
+996662at2759	Missing
+1001705at2759	Complete	KAM7450910.1	285.0	270	https://v10-1.orthodb.org/?query=1001705at2759	WD40 repeat
+1003258at2759	Duplicated	KAM7441691.1	304.9	285	https://v10-1.orthodb.org/?query=1003258at2759	GPI mannosyltransferase 1
+1003258at2759	Duplicated	KAM7441692.1	283.6	265	https://v10-1.orthodb.org/?query=1003258at2759	GPI mannosyltransferase 1
+1010730at2759	Complete	KAM7428597.1	428.6	264	https://v10-1.orthodb.org/?query=1010730at2759	Winged helix-like DNA-binding domain superfamily
+1014314at2759	Complete	KAM7430864.1	270.4	215	https://v10-1.orthodb.org/?query=1014314at2759	WD40-repeat-containing domain
+1018517at2759	Complete	KAM7432969.1	310.7	205	https://v10-1.orthodb.org/?query=1018517at2759	Tetrapyrrole methylase
+1019762at2759	Complete	KAM7429566.1	345.2	378	https://v10-1.orthodb.org/?query=1019762at2759	Signal recognition particle subunit SRP68
+1025450at2759	Complete	KAM7436888.1	311.1	301	https://v10-1.orthodb.org/?query=1025450at2759	WD40 repeat
+1030907at2759	Complete	KAM7438847.1	340.9	278	https://v10-1.orthodb.org/?query=1030907at2759	Golgi to ER traffic protein 4
+1032689at2759	Complete	KAM7439672.1	199.5	156	https://v10-1.orthodb.org/?query=1032689at2759	tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14
+1038775at2759	Complete	KAM7431145.1	184.7	203	https://v10-1.orthodb.org/?query=1038775at2759	Eukaryotic translation initiation factor 3 subunit F
+1041560at2759	Duplicated	KAM7446181.1	222.5	258	https://v10-1.orthodb.org/?query=1041560at2759	Mitochondrial import inner membrane translocase subunit TIM44
+1041560at2759	Duplicated	KAM7446182.1	201.5	235	https://v10-1.orthodb.org/?query=1041560at2759	Mitochondrial import inner membrane translocase subunit TIM44
+1049599at2759	Complete	KAM7441531.1	388.8	300	https://v10-1.orthodb.org/?query=1049599at2759	WD40-repeat-containing domain
+1051021at2759	Complete	KAM7441203.1	374.4	322	https://v10-1.orthodb.org/?query=1051021at2759	ALG11 mannosyltransferase
+1053181at2759	Duplicated	KAM7427107.1	101.6	173	https://v10-1.orthodb.org/?query=1053181at2759	Checkpoint protein Hus1/Mec3
+1053181at2759	Duplicated	KAM7427108.1	97.9	155	https://v10-1.orthodb.org/?query=1053181at2759	Checkpoint protein Hus1/Mec3
+1053181at2759	Duplicated	KAM7442384.1	98.1	147	https://v10-1.orthodb.org/?query=1053181at2759	Checkpoint protein Hus1/Mec3
+1053181at2759	Duplicated	KAM7442385.1	98.1	147	https://v10-1.orthodb.org/?query=1053181at2759	Checkpoint protein Hus1/Mec3
+1057950at2759	Complete	KAM7439296.1	284.5	228	https://v10-1.orthodb.org/?query=1057950at2759	MEMO1 family
+1065019at2759	Complete	KAM7438692.1	326.6	252	https://v10-1.orthodb.org/?query=1065019at2759	Diphosphomevalonate decarboxylase
+1076134at2759	Complete	KAM7447348.1	271.8	186	https://v10-1.orthodb.org/?query=1076134at2759	F-actin-capping protein subunit alpha/beta
+1079130at2759	Complete	KAM7442929.1	342.1	239	https://v10-1.orthodb.org/?query=1079130at2759	Glycosyl transferase, family 4
+1079827at2759	Missing
+1085752at2759	Complete	KAM7440631.1	249.5	224	https://v10-1.orthodb.org/?query=1085752at2759	Atg6/Beclin
+1087488at2759	Complete	KAM7433735.1	279.6	286	https://v10-1.orthodb.org/?query=1087488at2759	CTLH, C-terminal LisH motif
+1090038at2759	Complete	KAM7431194.1	160.6	138	https://v10-1.orthodb.org/?query=1090038at2759	Lipoyltransferase/lipoate-protein ligase
+1094121at2759	Complete	KAM7442436.1	137.5	131	https://v10-1.orthodb.org/?query=1094121at2759	ESCRT-II complex, Vps25 subunit
+1096688at2759	Complete	KAM7450472.1	356.1	213	https://v10-1.orthodb.org/?query=1096688at2759	GPN-loop GTPase
+1106766at2759	Duplicated	KAM7428475.1	187.9	200	https://v10-1.orthodb.org/?query=1106766at2759	Nuclear pore localisation protein NPL4, C-terminal
+1106766at2759	Duplicated	KAM7432718.1	187.6	200	https://v10-1.orthodb.org/?query=1106766at2759	Nuclear pore localisation protein NPL4, C-terminal
+1107630at2759	Complete	KAM7435407.1	282.2	208	https://v10-1.orthodb.org/?query=1107630at2759	Dolichyl-phosphate beta-glucosyltransferase
+1108845at2759	Duplicated	KAM7446553.1	519.1	328	https://v10-1.orthodb.org/?query=1108845at2759	COP9 signalosome complex subunit 2
+1108845at2759	Duplicated	KAM7446554.1	518.7	328	https://v10-1.orthodb.org/?query=1108845at2759	COP9 signalosome complex subunit 2
+1111142at2759	Complete	KAM7445152.1	280.2	287	https://v10-1.orthodb.org/?query=1111142at2759	Transcription factor IIIC subunit 5, HTH domain
+1112002at2759	Missing
+1115196at2759	Fragmented	KAM7440544.1	82.0	156	https://v10-1.orthodb.org/?query=1115196at2759	Ferrodoxin-fold anticodon-binding domain
+1128607at2759	Complete	KAM7432424.1	361.0	252	https://v10-1.orthodb.org/?query=1128607at2759	Electron transfer flavoprotein, alpha subunit, C-terminal
+1129824at2759	Complete	KAM7445660.1	133.7	134	https://v10-1.orthodb.org/?query=1129824at2759	Co-chaperone Hsc20
+1138059at2759	Complete	KAM7452056.1	319.9	208	https://v10-1.orthodb.org/?query=1138059at2759	Methyltransferase type 11
+1157302at2759	Complete	KAM7437554.1	372.8	204	https://v10-1.orthodb.org/?query=1157302at2759	Eukaryotic translation initiation factor 6
+1161199at2759	Complete	KAM7440701.1	145.0	174	https://v10-1.orthodb.org/?query=1161199at2759	Coatomer subunit epsilon
+1173229at2759	Complete	KAM7435026.1	177.2	201	https://v10-1.orthodb.org/?query=1173229at2759	WD40 repeat
+1178688at2759	Complete	KAM7440181.1	118.7	138	https://v10-1.orthodb.org/?query=1178688at2759	ATPase, OSCP/delta subunit
+1182451at2759	Duplicated	KAM7426760.1	169.9	153	https://v10-1.orthodb.org/?query=1182451at2759	SNARE
+1182451at2759	Duplicated	KAM7426761.1	169.8	153	https://v10-1.orthodb.org/?query=1182451at2759	SNARE
+1193442at2759	Complete	KAM7449871.1	348.1	261	https://v10-1.orthodb.org/?query=1193442at2759	Bystin
+1194691at2759	Duplicated	KAM7431989.1	396.3	276	https://v10-1.orthodb.org/?query=1194691at2759	26S Proteasome non-ATPase regulatory subunit 6
+1194691at2759	Duplicated	KAM7431990.1	396.3	276	https://v10-1.orthodb.org/?query=1194691at2759	26S Proteasome non-ATPase regulatory subunit 6
+1194797at2759	Complete	KAM7447492.1	496.9	442	https://v10-1.orthodb.org/?query=1194797at2759	Eukaryotic translation initiation factor 3 subunit B
+1197019at2759	Complete	KAM7440682.1	171.0	148	https://v10-1.orthodb.org/?query=1197019at2759	HORMA domain
+1200489at2759	Complete	KAM7447727.1	127.3	111	https://v10-1.orthodb.org/?query=1200489at2759	Exosome complex component CSL4, C-terminal
+1217666at2759	Complete	KAM7449519.1	258.2	178	https://v10-1.orthodb.org/?query=1217666at2759	Ribosome maturation protein SBDS, N-terminal
+1220881at2759	Complete	KAM7436540.1	147.8	153	https://v10-1.orthodb.org/?query=1220881at2759	TFIIH subunit Tfb4/GTF2H3
+1222562at2759	Complete	KAM7447542.1	162.0	116	https://v10-1.orthodb.org/?query=1222562at2759	Ribosome biogenesis protein
+1223488at2759	Complete	KAM7438792.1	77.1	111	https://v10-1.orthodb.org/?query=1223488at2759	OPI10 family
+1228942at2759	Complete	KAM7437161.1	214.1	164	https://v10-1.orthodb.org/?query=1228942at2759	Proteasome subunit beta
+1233814at2759	Complete	KAM7441574.1	239.2	155	https://v10-1.orthodb.org/?query=1233814at2759	Vacuolar protein sorting-associated protein 29
+1236198at2759	Complete	KAM7438878.1	205.5	126	https://v10-1.orthodb.org/?query=1236198at2759	G10 protein
+1247641at2759	Duplicated	KAM7426289.1	155.3	147	https://v10-1.orthodb.org/?query=1247641at2759	N-acetylglucosaminyl transferase component
+1247641at2759	Duplicated	KAM7432953.1	155.2	147	https://v10-1.orthodb.org/?query=1247641at2759	N-acetylglucosaminyl transferase component
+1248958at2759	Complete	KAM7451960.1	678.5	639	https://v10-1.orthodb.org/?query=1248958at2759	Exportin-2, central domain
+1249159at2759	Complete	KAM7443677.1	182.1	152	https://v10-1.orthodb.org/?query=1249159at2759	GINS complex, subunit Psf1
+1251252at2759	Duplicated	KAM7433482.1	89.0	83	https://v10-1.orthodb.org/?query=1251252at2759	Mediator complex, subunit Med6
+1251252at2759	Duplicated	KAM7425704.1	87.9	82	https://v10-1.orthodb.org/?query=1251252at2759	Mediator complex, subunit Med6
+1257440at2759	Duplicated	KAM7437495.1	166.5	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1257440at2759	Duplicated	KAM7431630.1	166.3	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1257440at2759	Duplicated	KAM7431631.1	166.0	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1257440at2759	Duplicated	KAM7431629.1	165.9	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1257440at2759	Duplicated	KAM7437494.1	165.9	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1258856at2759	Complete	KAM7426321.1	688.0	609	https://v10-1.orthodb.org/?query=1258856at2759	Vps16, C-terminal
+1259741at2759	Complete	KAM7428537.1	404.3	237	https://v10-1.orthodb.org/?query=1259741at2759	GPI-anchor transamidase
+1260807at2759	Complete	KAM7430053.1	269.6	222	https://v10-1.orthodb.org/?query=1260807at2759	Protohaem IX farnesyltransferase
+1264469at2759	Complete	KAM7441046.1	170.2	152	https://v10-1.orthodb.org/?query=1264469at2759	Ubiquinone biosynthesis protein Coq4
+1266231at2759	Complete	KAM7441028.1	298.9	189	https://v10-1.orthodb.org/?query=1266231at2759	Ribosomal biogenesis, methyltransferase, EMG1/NEP1
+1269244at2759	Complete	KAM7439571.1	89.4	119	https://v10-1.orthodb.org/?query=1269244at2759	RWD domain
+1269649at2759	Complete	KAM7439309.1	284.8	167	https://v10-1.orthodb.org/?query=1269649at2759	K Homology domain
+1275837at2759	Complete	KAM7432873.1	397.9	244	https://v10-1.orthodb.org/?query=1275837at2759	26S Proteasome non-ATPase regulatory subunit 7/8
+1284731at2759	Complete	KAM7430850.1	108.5	125	https://v10-1.orthodb.org/?query=1284731at2759	K Homology domain, type 1
+1287094at2759	Complete	KAM7448359.1	166.4	127	https://v10-1.orthodb.org/?query=1287094at2759	Snf7 family
+1287401at2759	Complete	KAM7448378.1	264.3	164	https://v10-1.orthodb.org/?query=1287401at2759	Cytochrome c oxidase assembly protein CtaG/Cox11
+1291729at2759	Duplicated	KAM7433390.1	85.9	114	https://v10-1.orthodb.org/?query=1291729at2759	GINS complex, subunit Psf3
+1291729at2759	Duplicated	KAM7438689.1	85.9	114	https://v10-1.orthodb.org/?query=1291729at2759	GINS complex, subunit Psf3
+1304061at2759	Duplicated	KAM7444431.1	188.6	133	https://v10-1.orthodb.org/?query=1304061at2759	RNA polymerase II subunit A
+1304061at2759	Duplicated	KAM7444432.1	188.4	133	https://v10-1.orthodb.org/?query=1304061at2759	RNA polymerase II subunit A
+1309031at2759	Duplicated	KAM7425002.1	322.0	340	https://v10-1.orthodb.org/?query=1309031at2759	CDC45 family
+1309031at2759	Duplicated	KAM7452072.1	317.5	340	https://v10-1.orthodb.org/?query=1309031at2759	CDC45 family
+1309031at2759	Duplicated	KAM7452073.1	312.9	328	https://v10-1.orthodb.org/?query=1309031at2759	CDC45 family
+1312453at2759	Complete	KAM7447339.1	692.0	639	https://v10-1.orthodb.org/?query=1312453at2759	WD40-repeat-containing domain
+1314980at2759	Complete	KAM7441689.1	548.8	513	https://v10-1.orthodb.org/?query=1314980at2759	Cleavage and polyadenylation specificity factor subunit 2
+1322299at2759	Missing
+1322642at2759	Missing
+1323575at2759	Complete	KAM7433457.1	176.8	113	https://v10-1.orthodb.org/?query=1323575at2759	GNAT domain
+1324510at2759	Duplicated	KAM7450473.1	320.1	257	https://v10-1.orthodb.org/?query=1324510at2759	NADPH
+1324510at2759	Duplicated	KAM7450474.1	319.4	257	https://v10-1.orthodb.org/?query=1324510at2759	NADPH
+1338131at2759	Complete	KAM7439721.1	261.7	142	https://v10-1.orthodb.org/?query=1338131at2759	PIN domain
+1339553at2759	Duplicated	KAM7448732.1	251.2	241	https://v10-1.orthodb.org/?query=1339553at2759	GPI transamidase subunit PIG-U
+1339553at2759	Duplicated	KAM7427031.1	251.0	241	https://v10-1.orthodb.org/?query=1339553at2759	GPI transamidase subunit PIG-U
+1342242at2759	Complete	KAM7449438.1	177.5	171	https://v10-1.orthodb.org/?query=1342242at2759	Aminomethyltransferase, folate-binding domain
+1346165at2759	Complete	KAM7448242.1	350.5	246	https://v10-1.orthodb.org/?query=1346165at2759	DNA primase, small subunit
+1346432at2759	Complete	KAM7452135.1	128.1	138	https://v10-1.orthodb.org/?query=1346432at2759	U3 small nucleolar RNA-associated protein 11
+1348942at2759	Missing
+1355894at2759	Duplicated	KAM7424950.1	224.0	142	https://v10-1.orthodb.org/?query=1355894at2759	GNAT domain
+1355894at2759	Duplicated	KAM7446594.1	224.0	142	https://v10-1.orthodb.org/?query=1355894at2759	GNAT domain
+1358374at2759	Missing
+1364586at2759	Complete	KAM7437964.1	118.3	143	https://v10-1.orthodb.org/?query=1364586at2759	rRNA-processing protein Fcf1/Utp23
+1370285at2759	Missing
+1370304at2759	Fragmented	KAM7428023.1	27.5	42	https://v10-1.orthodb.org/?query=1370304at2759	-alpha-acetyltransferase 35, NatC auxiliary subunit
+1377237at2759	Complete	KAM7452253.1	166.1	146	https://v10-1.orthodb.org/?query=1377237at2759	TIP41-like protein
+1379600at2759	Missing
+1380409at2759	Complete	KAM7451959.1	209.5	139	https://v10-1.orthodb.org/?query=1380409at2759	NFACT, RNA-binding domain
+1382842at2759	Complete	KAM7441239.1	148.7	122	https://v10-1.orthodb.org/?query=1382842at2759	DNA replication complex GINS protein PSF2
+1395649at2759	Complete	KAM7445181.1	96.8	125	https://v10-1.orthodb.org/?query=1395649at2759	Signal peptidase complex subunit 2
+1398309at2759	Missing
+1404162at2759	Complete	KAM7444211.1	193.3	189	https://v10-1.orthodb.org/?query=1404162at2759	Origin recognition complex, subunit 2
+1405073at2759	Complete	KAM7431121.1	244.2	159	https://v10-1.orthodb.org/?query=1405073at2759	PUA domain
+1405146at2759	Complete	KAM7435952.1	147.8	133	https://v10-1.orthodb.org/?query=1405146at2759	26S Proteasome non-ATPase regulatory subunit 9
+1407446at2759	Complete	KAM7441258.1	58.1	93	https://v10-1.orthodb.org/?query=1407446at2759	SRP-independent targeting protein 2/TMEM208
+1421503at2759	Duplicated	KAM7440433.1	201.0	111	https://v10-1.orthodb.org/?query=1421503at2759	Nuclear cap-binding protein subunit 2
+1421503at2759	Duplicated	KAM7440434.1	200.8	111	https://v10-1.orthodb.org/?query=1421503at2759	Nuclear cap-binding protein subunit 2
+1423847at2759	Complete	KAM7439456.1	305.1	274	https://v10-1.orthodb.org/?query=1423847at2759	RNA 3'-terminal phosphate cyclase domain
+1426075at2759	Duplicated	KAM7434464.1	107.1	98	https://v10-1.orthodb.org/?query=1426075at2759	Trafficking protein particle complex subunit 2
+1426075at2759	Duplicated	KAM7440006.1	107.1	98	https://v10-1.orthodb.org/?query=1426075at2759	Trafficking protein particle complex subunit 2
+1428265at2759	Complete	KAM7427514.1	209.6	190	https://v10-1.orthodb.org/?query=1428265at2759	Ubiquinol-cytochrome c chaperone, CBP3
+1428854at2759	Duplicated	KAM7436995.1	467.7	303	https://v10-1.orthodb.org/?query=1428854at2759	RNA recognition motif domain
+1428854at2759	Duplicated	KAM7440284.1	455.8	302	https://v10-1.orthodb.org/?query=1428854at2759	RNA recognition motif domain
+1430056at2759	Complete	KAM7447540.1	123.3	130	https://v10-1.orthodb.org/?query=1430056at2759	RNA polymerase Rpb7-like , N-terminal
+1432328at2759	Duplicated	KAM7429435.1	278.2	180	https://v10-1.orthodb.org/?query=1432328at2759	Autophagy-related protein 3
+1432328at2759	Duplicated	KAM7448048.1	277.3	178	https://v10-1.orthodb.org/?query=1432328at2759	Autophagy-related protein 3
+1434266at2759	Complete	KAM7449176.1	138.6	136	https://v10-1.orthodb.org/?query=1434266at2759	DNA replication complex GINS protein SLD5
+1440961at2759	Complete	KAM7438100.1	169.7	185	https://v10-1.orthodb.org/?query=1440961at2759	Rad1/Rec1/Rad17
+1441854at2759	Duplicated	KAM7426658.1	254.4	208	https://v10-1.orthodb.org/?query=1441854at2759	Deoxyhypusine hydroxylase
+1441854at2759	Duplicated	KAM7449237.1	253.7	208	https://v10-1.orthodb.org/?query=1441854at2759	Deoxyhypusine hydroxylase
+1442062at2759	Complete	KAM7439858.1	175.9	218	https://v10-1.orthodb.org/?query=1442062at2759	Cytoplasmic tRNA 2-thiolation protein 2
+1445102at2759	Complete	KAM7441287.1	292.4	192	https://v10-1.orthodb.org/?query=1445102at2759	Glycosyltransferase 2-like
+1450538at2759	Complete	KAM7426299.1	180.0	151	https://v10-1.orthodb.org/?query=1450538at2759	Vta1, C-terminal
+1454155at2759	Complete	KAM7448698.1	74.6	95	https://v10-1.orthodb.org/?query=1454155at2759	Cdk-activating kinase assembly factor MAT1, centre
+1455730at2759	Complete	KAM7448616.1	485.0	356	https://v10-1.orthodb.org/?query=1455730at2759	SKI-interacting protein, SKIP
+1459797at2759	Complete	KAM7446107.1	89.0	96	https://v10-1.orthodb.org/?query=1459797at2759	Prefoldin subunit 4
+1474000at2759	Complete	KAM7438327.1	107.6	138	https://v10-1.orthodb.org/?query=1474000at2759	Translocation protein Sec62
+1479417at2759	Duplicated	KAM7434805.1	300.8	177	https://v10-1.orthodb.org/?query=1479417at2759	SF3B4, RNA recognition motif 1
+1479417at2759	Duplicated	KAM7449403.1	300.8	177	https://v10-1.orthodb.org/?query=1479417at2759	SF3B4, RNA recognition motif 1
+1479417at2759	Duplicated	KAM7449256.1	282.3	171	https://v10-1.orthodb.org/?query=1479417at2759	SF3B4, RNA recognition motif 1
+1488235at2759	Complete	KAM7446243.1	192.6	141	https://v10-1.orthodb.org/?query=1488235at2759	Adenylate kinase isoenzyme 6
+1488436at2759	Complete	KAM7439457.1	125.3	63	https://v10-1.orthodb.org/?query=1488436at2759	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+1490022at2759	Complete	KAM7449549.1	208.8	170	https://v10-1.orthodb.org/?query=1490022at2759	SUI1 domain
+1504863at2759	Complete	KAM7450913.1	182.1	148	https://v10-1.orthodb.org/?query=1504863at2759	Trafficking protein particle complex subunit
+1513531at2759	Complete	KAM7426345.1	288.2	198	https://v10-1.orthodb.org/?query=1513531at2759	Pre-mRNA-splicing factor Isy1
+1525971at2759	Complete	KAM7447481.1	114.7	80	https://v10-1.orthodb.org/?query=1525971at2759	Ubiquitin-like protein ATG12
+1526152at2759	Complete	KAM7447982.1	104.9	85	https://v10-1.orthodb.org/?query=1526152at2759	NADH dehydrogenase 
+1530008at2759	Fragmented	KAM7450626.1	85.5	70	https://v10-1.orthodb.org/?query=1530008at2759	H/ACA ribonucleoprotein complex subunit
+1538526at2759	Complete	KAM7429031.1	143.0	104	https://v10-1.orthodb.org/?query=1538526at2759	Ribosomal protein L7Ae/L30e/S12e/Gadd45
+1545004at2759	Duplicated	KAM7431708.1	120.9	72	https://v10-1.orthodb.org/?query=1545004at2759	LSM domain, eukaryotic/archaea-type
+1545004at2759	Duplicated	KAM7433573.1	120.9	72	https://v10-1.orthodb.org/?query=1545004at2759	LSM domain, eukaryotic/archaea-type
+1552706at2759	Complete	KAM7432101.1	104.8	93	https://v10-1.orthodb.org/?query=1552706at2759	Signal recognition particle, SRP19 subunit
+1558822at2759	Complete	KAM7430615.1	113.6	67	https://v10-1.orthodb.org/?query=1558822at2759	LSM domain, eukaryotic/archaea-type
+1563319at2759	Missing
+1567796at2759	Complete	KAM7440159.1	147.6	133	https://v10-1.orthodb.org/?query=1567796at2759	Prefoldin
+1575179at2759	Duplicated	KAM7427715.1	53.8	55	https://v10-1.orthodb.org/?query=1575179at2759	COX assembly mitochondrial protein
+1575179at2759	Duplicated	KAM7431972.1	53.8	55	https://v10-1.orthodb.org/?query=1575179at2759	COX assembly mitochondrial protein
+1576404at2759	Complete	KAM7444327.1	147.4	143	https://v10-1.orthodb.org/?query=1576404at2759	Pre-mRNA-splicing factor  Cwf15/Cwc15
+1588798at2759	Missing
+1593937at2759	Duplicated	KAM7450884.1	83.8	156	https://v10-1.orthodb.org/?query=1593937at2759	Ribosomal protein S23/S29, mitochondrial
+1593937at2759	Duplicated	KAM7450885.1	83.5	156	https://v10-1.orthodb.org/?query=1593937at2759	Ribosomal protein S23/S29, mitochondrial
+1593937at2759	Duplicated	KAM7450883.1	83.3	156	https://v10-1.orthodb.org/?query=1593937at2759	Ribosomal protein S23/S29, mitochondrial
+1617752at2759	Complete	KAM7443012.1	139.8	95	https://v10-1.orthodb.org/?query=1617752at2759	Transcription elongation factor SPT4
+1620056at2759	Complete	KAM7440505.1	71.2	74	https://v10-1.orthodb.org/?query=1620056at2759	Ribosomal protein/NADH dehydrogenase domain
+1623701at2759	Complete	KAM7445360.1	124.0	98	https://v10-1.orthodb.org/?query=1623701at2759	TMEM85/ER membrane protein complex subunit 4
+1626636at2759	Missing
+1633672at2759	Missing
+1645187at2759	Complete	KAM7450264.1	54.4	47	https://v10-1.orthodb.org/?query=1645187at2759	PDCD5-like
