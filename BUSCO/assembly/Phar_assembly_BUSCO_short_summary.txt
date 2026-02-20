@@ -1,6 +1,5 @@
 # BUSCO version is: 6.0.0 
 # The lineage dataset is: eukaryota_odb10 (Creation date: 2024-01-08, number of genomes: 70, number of BUSCOs: 255)
-# Summarized benchmarking in BUSCO notation for file /home/fiesingera/Phar_latest/PAG_UKon_Phar.V3.fasta
 # BUSCO was run in mode: euk_genome_min
 # Gene predictor used: miniprot
 
