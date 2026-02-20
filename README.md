@@ -3,7 +3,7 @@ Scripts used for the _Porites harrisoni_ reference genome assembly and annotatio
 
 **Fiesinger et al. (2026): "The genome of the reef-building coral *Porites harrisoni* from the southern Persian/Arabian Gulf". *GigaByte*. DOI: tbd**
 
-Raw gDNA sequencing data (Oxford Nanopore long-reads) are deposited at NCBI under the BioProject PRJNA1111311 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1111311) and raw RNA-Seq data are deposited under the BioProject PRJNA1354406 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1354406), both accessible under the Umbrella BioProject PRJNA749006 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006). This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JBDLLT000000000 (https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000). The *Porites harrisoni* genome assembly and annotation version described is version JBDLLT020000000. 
+Raw gDNA sequencing data (Oxford Nanopore long-reads) are deposited at NCBI under the BioProject PRJNA1111311 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1111311) and raw RNA-Seq data are deposited under the BioProject PRJNA1354406 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1354406), both accessible under the Umbrella BioProject PRJNA749006 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006). This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JBDLLT000000000 (https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000). The *Porites harrisoni* genome is version JBDLLT020000000. 
 
 ## Assembly
 * **00.reads_preprocessing.sh**
