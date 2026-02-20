@@ -1,5 +1,9 @@
 # _Porites harrisoni_ reference genome assembly & annotation
-Scripts used for the _Porites harrisoni_ referencegenome assembly and annotation using Oxford Nanopore longreads. The _Porites harrisoni_ genome assembly (including the mitogenome as a single contig) and annotation (GenBank accession number: JBDLLT000000000; https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000) are deposited at NCBI under the BioProject PRJNA1111311 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1111311) under the Umbrella BioProject PRJNA749006 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006).
+Scripts used for the _Porites harrisoni_ reference genome assembly and annotation as described in the corresponding publication:
+
+Fiesinger et al. (2026): "The genome of the reef-building coral *Porites harrisoni* from the southern Persian/Arabian Gulf". *GigaByte*. DOI: tbd
+
+Raw gDNA sequencing data (Oxford Nanopore long-reads) are deposited at NCBI under the BioProject PRJNA1111311 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1111311) and raw RNA-Seq data are deposited under the BioProject PRJNA1354406 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1354406), both accessible under the Umbrella BioProject PRJNA749006 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006). This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JBDLLT000000000 (https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000). The *Porites harrisoni* genome assembly and annotation version described is version JBDLLT020000000. 
 
 ## Assembly
 * **00.reads_preprocessing.sh**
@@ -38,6 +42,14 @@ Structural annotation was done using BRAKER3 (https://github.com/Gaius-Augustus/
 * **08.functional_annotation.sh**
 
 The predicted genes were annotated using InterProScan (https://github.com/ebi-pf-team/interproscan),  EggNOG-mapper (https://github.com/eggnogdb/eggnog-mapper) and Phobius (https://phobius.sbc.su.se/). The respective annotation files were then fed into funannotate annotate (https://github.com/nextgenusfs/funannotate) with the predicted genes in gff3 file format to synthesize all annotations. The final annotation was assessed using BUSCO (https://busco.ezlab.org/busco_userguide.html).
+
+## Figures
+
+The folder **figures** contains data and references to reproduce Figures 1 - 5 in the respective manuscript. Please refer to **/figures/README.md**.
+
+## BUSCO
+
+The folder **BUSCO** contains the BUSCO scores for the assembly and annotation of the *Porites harrisoni* genome assembly and annotation available under https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000. 
 
 
 
