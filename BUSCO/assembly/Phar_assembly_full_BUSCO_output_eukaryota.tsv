@@ -1,0 +1,297 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: eukaryota_odb10 (Creation date: 2024-01-08, number of genomes: 70, number of BUSCOs: 255)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+39650at2759	Complete	Scaffold0008	365099	423619	+	2196.4	1485	https://v10-1.orthodb.org/?query=39650at2759	DNA polymerase epsilon catalytic subunit
+83779at2759	Complete	Scaffold0229	533475	567823	+	260.4	232	https://v10-1.orthodb.org/?query=83779at2759	Asparagine synthase
+87842at2759	Complete	Scaffold0288	511516	549744	+	598.7	610	https://v10-1.orthodb.org/?query=87842at2759	Pep3/Vps18/deep orange
+97116at2759	Complete	Scaffold0125	577712	549745	-	1298.9	956	https://v10-1.orthodb.org/?query=97116at2759	WD40/YVTN repeat-like-containing domain superfamily
+100698at2759	Complete	Scaffold0035	159272	141768	-	853.5	498	https://v10-1.orthodb.org/?query=100698at2759	Helicase, C-terminal
+142542at2759	Complete	Scaffold0003	1014994	1036611	+	725.7	650	https://v10-1.orthodb.org/?query=142542at2759	Transcription initiation factor TFIID subunit 2
+156083at2759	Complete	Scaffold0050	177591	214579	+	3721.8	1938	https://v10-1.orthodb.org/?query=156083at2759	Pre-mRNA-processing-splicing factor 8
+160593at2759	Complete	Scaffold0058	231893	170148	-	1537.6	1308	https://v10-1.orthodb.org/?query=160593at2759	Translational activator Gcn1
+166920at2759	Complete	Scaffold0186	205132	241673	+	779.5	778	https://v10-1.orthodb.org/?query=166920at2759	Condensin complex subunit 1
+176625at2759	Missing
+179362at2759	Complete	Scaffold0124	345669	298181	-	701.4	938	https://v10-1.orthodb.org/?query=179362at2759	Rad50/SbcC-type AAA domain
+245208at2759	Complete	Scaffold0233	491917	452054	-	1553.5	845	https://v10-1.orthodb.org/?query=245208at2759	Splicing factor 3B subunit 1
+257318at2759	Complete	Scaffold0095	969366	961796	-	340.3	314	https://v10-1.orthodb.org/?query=257318at2759	digestive organ expansion factor homolog
+261328at2759	Duplicated	Scaffold0198	618001	600346	-	437.7	418	https://v10-1.orthodb.org/?query=261328at2759	WD40 repeat
+261328at2759	Duplicated	Scaffold0642	20319	3465	-	437.2	418	https://v10-1.orthodb.org/?query=261328at2759	WD40 repeat
+261419at2759	Duplicated	Scaffold0346	173584	127717	-	351.2	434	https://v10-1.orthodb.org/?query=261419at2759	Ribosome control protein 1
+261419at2759	Duplicated	Scaffold0285	390601	457802	+	351.5	417	https://v10-1.orthodb.org/?query=261419at2759	Ribosome control protein 1
+270107at2759	Complete	Scaffold0001	2640913	2648860	+	633.4	602	https://v10-1.orthodb.org/?query=270107at2759	GPI ethanolamine phosphate transferase 1
+271586at2759	Missing
+290630at2759	Complete	Scaffold0139	969217	914431	-	700.1	548	https://v10-1.orthodb.org/?query=290630at2759	WD40 repeat
+293315at2759	Complete	Scaffold0093	1239407	1279301	+	614.7	623	https://v10-1.orthodb.org/?query=293315at2759	DNA polymerase
+296129at2759	Complete	Scaffold0256	527467	460714	-	1110.9	698	https://v10-1.orthodb.org/?query=296129at2759	RNA cytidine acetyltransferase
+299766at2759	Complete	Scaffold0106	929561	893815	-	496.3	436	https://v10-1.orthodb.org/?query=299766at2759	DNA polymerase, Y-family, little finger domain
+306227at2759	Missing
+320059at2759	Complete	Scaffold0018	672881	690823	+	894.7	452	https://v10-1.orthodb.org/?query=320059at2759	Radical SAM
+324863at2759	Duplicated	Scaffold0072	1439116	1463911	+	667.4	569	https://v10-1.orthodb.org/?query=324863at2759	RuvA domain 2-like
+324863at2759	Duplicated	Scaffold1106	59319	80939	+	690.2	568	https://v10-1.orthodb.org/?query=324863at2759	RuvA domain 2-like
+324863at2759	Duplicated	Scaffold0447	161368	181834	+	689.9	568	https://v10-1.orthodb.org/?query=324863at2759	RuvA domain 2-like
+324863at2759	Duplicated	Scaffold0447	395991	415815	+	686.6	568	https://v10-1.orthodb.org/?query=324863at2759	RuvA domain 2-like
+325552at2759	Complete	Scaffold0260	404875	435631	+	480.2	377	https://v10-1.orthodb.org/?query=325552at2759	WD40 repeat
+330169at2759	Duplicated	Scaffold0468	249455	239029	-	349.2	321	https://v10-1.orthodb.org/?query=330169at2759	Mannosyltransferase
+330169at2759	Duplicated	Scaffold0099	134652	121573	-	341.0	321	https://v10-1.orthodb.org/?query=330169at2759	Mannosyltransferase
+331411at2759	Complete	Scaffold0858	171905	141797	-	407.5	401	https://v10-1.orthodb.org/?query=331411at2759	Tetratricopeptide-like helical domain superfamily
+341721at2759	Complete	Scaffold0069	478334	461430	-	334.5	376	https://v10-1.orthodb.org/?query=341721at2759	Nucleolar complex-associated protein 3
+345441at2759	Complete	Scaffold0009	1630421	1619709	-	462.5	380	https://v10-1.orthodb.org/?query=345441at2759	Phosphoacetylglucosamine mutase
+355408at2759	Complete	Scaffold0080	972953	984727	+	814.3	554	https://v10-1.orthodb.org/?query=355408at2759	Tetratricopeptide repeat-containing domain
+369837at2759	Missing
+375960at2759	Missing
+383503at2759	Complete	Scaffold0232	702350	748890	+	314.5	320	https://v10-1.orthodb.org/?query=383503at2759	Splicing factor 3A subunit 3
+388820at2759	Complete	Scaffold0072	62946	74940	+	594.5	596	https://v10-1.orthodb.org/?query=388820at2759	WD40 repeat
+390348at2759	Complete	Scaffold0045	703048	728785	+	1192.1	738	https://v10-1.orthodb.org/?query=390348at2759	Pyridoxal phosphate-dependent transferase
+392369at2759	Complete	Scaffold0157	521615	536497	+	386.1	346	https://v10-1.orthodb.org/?query=392369at2759	GMP synthase, C-terminal
+396755at2759	Missing
+418107at2759	Duplicated	Scaffold0173	525	10787	+	354.7	298	https://v10-1.orthodb.org/?query=418107at2759	WD40-repeat-containing domain
+418107at2759	Duplicated	Scaffold1178	2238	13177	+	354.5	298	https://v10-1.orthodb.org/?query=418107at2759	WD40-repeat-containing domain
+426305at2759	Complete	Scaffold0182	596302	525242	-	563.3	478	https://v10-1.orthodb.org/?query=426305at2759	Sda1
+450058at2759	Complete	Scaffold0283	569841	563273	-	245.3	283	https://v10-1.orthodb.org/?query=450058at2759	Reduced growth phenotype protein 1
+453044at2759	Complete	Scaffold0008	2403905	2359480	-	358.9	295	https://v10-1.orthodb.org/?query=453044at2759	Zinc finger, ZPR1-type
+457861at2759	Complete	Scaffold0130	601748	587649	-	105.0	141	https://v10-1.orthodb.org/?query=457861at2759	Autophagy protein 5
+464990at2759	Missing
+491869at2759	Complete	Scaffold0006	1508569	1526168	+	272.8	254	https://v10-1.orthodb.org/?query=491869at2759	Protein arginine methyltransferase NDUFAF7
+513979at2759	Complete	Scaffold0278	334217	299803	-	189.1	225	https://v10-1.orthodb.org/?query=513979at2759	DNA polymerase alpha subunit B
+543764at2759	Complete	Scaffold0334	477352	467314	-	224.1	234	https://v10-1.orthodb.org/?query=543764at2759	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6
+549762at2759	Complete	Scaffold0532	104960	180046	+	529.8	404	https://v10-1.orthodb.org/?query=549762at2759	Ubiquitin-like modifier-activating enzyme Atg7
+551907at2759	Complete	Scaffold0067	867188	890791	+	356.7	341	https://v10-1.orthodb.org/?query=551907at2759	CCAAT-binding factor
+570797at2759	Complete	Scaffold0065	1178708	1165381	-	556.9	493	https://v10-1.orthodb.org/?query=570797at2759	Winged helix-like DNA-binding domain superfamily
+582756at2759	Missing
+598949at2759	Complete	Scaffold0077	1075416	1051707	-	480.5	384	https://v10-1.orthodb.org/?query=598949at2759	AP-3 complex subunit delta
+604979at2759	Complete	Scaffold0242	474883	441029	-	462.7	293	https://v10-1.orthodb.org/?query=604979at2759	WD40-repeat-containing domain
+621827at2759	Complete	Scaffold0017	656142	764212	+	311.4	299	https://v10-1.orthodb.org/?query=621827at2759	WD40-repeat-containing domain
+625387at2759	Missing
+655400at2759	Complete	Scaffold0023	1232271	1249200	+	294.3	295	https://v10-1.orthodb.org/?query=655400at2759	Ubiquinone biosynthesis monooxygenase COQ6
+664730at2759	Complete	Scaffold0287	466870	516293	+	642.0	349	https://v10-1.orthodb.org/?query=664730at2759	Pyridoxal phosphate-dependent transferase
+671536at2759	Complete	Scaffold0357	139115	125407	-	517.6	363	https://v10-1.orthodb.org/?query=671536at2759	Tetratricopeptide repeat
+671846at2759	Complete	Scaffold0061	825966	792162	-	298.2	426	https://v10-1.orthodb.org/?query=671846at2759	Nuclear pore protein 84/107
+673132at2759	Missing
+674160at2759	Complete	Scaffold0372	153588	109307	-	829.3	1011	https://v10-1.orthodb.org/?query=674160at2759	Armadillo-type fold
+674169at2759	Missing
+679187at2759	Complete	Scaffold0311	374267	405641	+	465.0	422	https://v10-1.orthodb.org/?query=679187at2759	Gamma-tubulin complex component
+679771at2759	Complete	Scaffold0256	527638	536393	+	130.6	171	https://v10-1.orthodb.org/?query=679771at2759	Eukaryotic translation initiation factor 3 subunit M
+687505at2759	Complete	Scaffold0047	1128550	1121227	-	211.4	214	https://v10-1.orthodb.org/?query=687505at2759	DnaJ domain
+692986at2759	Complete	Scaffold0248	597885	584773	-	353.7	385	https://v10-1.orthodb.org/?query=692986at2759	Conserved oligomeric Golgi complex, subunit 3
+708105at2759	Complete	Scaffold0031	1718233	1706471	-	178.5	207	https://v10-1.orthodb.org/?query=708105at2759	Histone acetyltransferase type B catalytic subunit
+719531at2759	Complete	Scaffold0210	139990	126471	-	431.0	284	https://v10-1.orthodb.org/?query=719531at2759	PIGA, GPI anchor biosynthesis
+720340at2759	Complete	Scaffold0598	219634	232856	+	195.7	224	https://v10-1.orthodb.org/?query=720340at2759	Cell division control protein 73, C-terminal
+721605at2759	Duplicated	Scaffold1203	65513	23630	-	315.6	245	https://v10-1.orthodb.org/?query=721605at2759	NAD(P)-binding domain
+721605at2759	Duplicated	Scaffold0051	1534330	1527508	-	325.0	243	https://v10-1.orthodb.org/?query=721605at2759	NAD(P)-binding domain
+722805at2759	Complete	Scaffold1289	43723	68105	+	384.4	418	https://v10-1.orthodb.org/?query=722805at2759	WD40/YVTN repeat-like-containing domain superfamily
+734341at2759	Complete	Scaffold0027	836676	845669	+	132.8	164	https://v10-1.orthodb.org/?query=734341at2759	ATP12, ATP synthase F1-assembly protein
+734666at2759	Complete	Scaffold0300	419638	388729	-	510.7	374	https://v10-1.orthodb.org/?query=734666at2759	60S ribosomal export protein NMD3
+736068at2759	Complete	Scaffold0011	704940	714656	+	324.3	318	https://v10-1.orthodb.org/?query=736068at2759	DNA polymerase alpha/delta/epsilon, subunit B
+751335at2759	Duplicated	Scaffold0274	357964	383322	+	270.7	296	https://v10-1.orthodb.org/?query=751335at2759	ATPase, V1 complex, subunit H
+751335at2759	Duplicated	Scaffold1277	70749	58175	-	254.6	264	https://v10-1.orthodb.org/?query=751335at2759	ATPase, V1 complex, subunit H
+759498at2759	Missing
+761109at2759	Missing
+768809at2759	Complete	Scaffold0463	187067	249780	+	291.2	232	https://v10-1.orthodb.org/?query=768809at2759	Zinc finger C2H2-type
+774318at2759	Complete	Scaffold0090	324129	354919	+	350.7	272	https://v10-1.orthodb.org/?query=774318at2759	Dol-P-Man
+777920at2759	Complete	Scaffold0489	144218	155234	+	448.3	339	https://v10-1.orthodb.org/?query=777920at2759	Pescadillo
+779909at2759	Complete	Scaffold0027	1350653	1327892	-	279.5	227	https://v10-1.orthodb.org/?query=779909at2759	WD40 repeat
+801857at2759	Complete	Scaffold0125	440839	415791	-	252.3	217	https://v10-1.orthodb.org/?query=801857at2759	tRNA-dihydrouridine synthase
+814241at2759	Complete	Scaffold0005	2585514	2567780	-	343.4	316	https://v10-1.orthodb.org/?query=814241at2759	Clp1, N-terminal beta-sandwich domain
+817008at2759	Duplicated	Scaffold0252	591175	609605	+	497.0	298	https://v10-1.orthodb.org/?query=817008at2759	Aminoacyl-tRNA synthetase, class Ic
+817008at2759	Duplicated	Scaffold0102	399067	420278	+	488.8	298	https://v10-1.orthodb.org/?query=817008at2759	Aminoacyl-tRNA synthetase, class Ic
+834694at2759	Complete	Scaffold0030	687061	662291	-	446.5	333	https://v10-1.orthodb.org/?query=834694at2759	Mre11, DNA-binding
+836599at2759	Complete	Scaffold0868	156008	140987	-	427.7	316	https://v10-1.orthodb.org/?query=836599at2759	26S proteasome non-ATPase regulatory subunit 3
+844748at2759	Complete	Scaffold0462	188922	180524	-	283.3	364	https://v10-1.orthodb.org/?query=844748at2759	Bacterial surface antigen (D15)
+855834at2759	Complete	Scaffold0011	682920	661494	-	260.0	311	https://v10-1.orthodb.org/?query=855834at2759	RNA polymerase I specific transcription initiation factor RRN3
+858842at2759	Missing
+865202at2759	Complete	Scaffold0143	394702	379621	-	217.7	181	https://v10-1.orthodb.org/?query=865202at2759	Initiation factor 2B-related
+866359at2759	Missing
+869548at2759	Missing
+878143at2759	Complete	Scaffold0046	1162413	1146093	-	406.2	322	https://v10-1.orthodb.org/?query=878143at2759	CAAX prenyl protease 1
+887370at2759	Missing
+891751at2759	Duplicated	Scaffold0160	22871	30525	+	276.3	231	https://v10-1.orthodb.org/?query=891751at2759	CCAAT-binding factor
+891751at2759	Duplicated	Scaffold0799	138763	146288	+	276.2	231	https://v10-1.orthodb.org/?query=891751at2759	CCAAT-binding factor
+898782at2759	Missing
+901894at2759	Complete	Scaffold0009	2129179	2125845	-	332.2	329	https://v10-1.orthodb.org/?query=901894at2759	Mannosyltransferase
+905026at2759	Complete	Scaffold0072	1311700	1268738	-	402.0	400	https://v10-1.orthodb.org/?query=905026at2759	Tetratricopeptide repeat
+911863at2759	Complete	Scaffold0142	422067	407245	-	238.6	205	https://v10-1.orthodb.org/?query=911863at2759	Protein phosphatase methylesterase 1
+917326at2759	Duplicated	Scaffold0048	898125	877653	-	504.3	428	https://v10-1.orthodb.org/?query=917326at2759	Sec1-like protein
+917326at2759	Duplicated	Scaffold1285	44526	64806	+	504.0	428	https://v10-1.orthodb.org/?query=917326at2759	Sec1-like protein
+918816at2759	Complete	Scaffold0072	238871	231835	-	191.4	218	https://v10-1.orthodb.org/?query=918816at2759	DNA methyltransferase 1-associated 1
+919955at2759	Duplicated	Scaffold0001	5302859	5291534	-	292.9	263	https://v10-1.orthodb.org/?query=919955at2759	26S Proteasome non-ATPase regulatory subunit 13
+919955at2759	Duplicated	Scaffold0672	194985	207002	+	292.9	263	https://v10-1.orthodb.org/?query=919955at2759	26S Proteasome non-ATPase regulatory subunit 13
+923657at2759	Complete	Scaffold0128	613792	618683	+	156.5	169	https://v10-1.orthodb.org/?query=923657at2759	Surfeit locus 1/Shy1
+924753at2759	Duplicated	Scaffold0169	706234	657878	-	218.1	219	https://v10-1.orthodb.org/?query=924753at2759	tRNA guanosine-2'-O-methyltransferase, TRM11
+924753at2759	Duplicated	Scaffold1101	50253	66113	+	217.6	219	https://v10-1.orthodb.org/?query=924753at2759	tRNA guanosine-2'-O-methyltransferase, TRM11
+924753at2759	Duplicated	Scaffold0435	70130	109942	+	206.4	219	https://v10-1.orthodb.org/?query=924753at2759	tRNA guanosine-2'-O-methyltransferase, TRM11
+931188at2759	Complete	Scaffold0004	3074404	3057237	-	492.4	346	https://v10-1.orthodb.org/?query=931188at2759	Zinc finger, RING/FYVE/PHD-type
+937275at2759	Complete	Scaffold0383	494548	498197	+	66.5	87	https://v10-1.orthodb.org/?query=937275at2759	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit
+937686at2759	Missing
+939345at2759	Duplicated	Scaffold0616	189149	185879	-	122.6	99	https://v10-1.orthodb.org/?query=939345at2759	Repressor of RNA polymerase III transcription MAF1
+939345at2759	Duplicated	Scaffold0070	668118	659918	-	121.9	99	https://v10-1.orthodb.org/?query=939345at2759	Repressor of RNA polymerase III transcription MAF1
+944899at2759	Duplicated	Scaffold1093	9903	20857	+	386.9	232	https://v10-1.orthodb.org/?query=944899at2759	KRR1 small subunit processome component
+944899at2759	Duplicated	Scaffold0086	13003	44005	+	386.4	232	https://v10-1.orthodb.org/?query=944899at2759	KRR1 small subunit processome component
+946128at2759	Missing
+956854at2759	Complete	Scaffold0009	1345520	1344638	-	192.4	172	https://v10-1.orthodb.org/?query=956854at2759	Tetratricopeptide repeat
+973442at2759	Fragmented	Scaffold1614	1149	3236	+	67.7	58	https://v10-1.orthodb.org/?query=973442at2759	Elongator complex protein 4
+974865at2759	Complete	Scaffold0133	736452	727025	-	267.0	228	https://v10-1.orthodb.org/?query=974865at2759	Brix domain
+975158at2759	Complete	Scaffold0063	488060	470136	-	257.2	274	https://v10-1.orthodb.org/?query=975158at2759	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48kDa subunit
+975557at2759	Complete	Scaffold0373	28579	47615	+	575.3	462	https://v10-1.orthodb.org/?query=975557at2759	cell division cycle 5-like protein
+976469at2759	Complete	Scaffold0003	1316070	1322128	+	218.9	232	https://v10-1.orthodb.org/?query=976469at2759	Eukaryotic translation initiation factor 3 subunit H
+981902at2759	Duplicated	Scaffold0206	184296	196068	+	217.8	215	https://v10-1.orthodb.org/?query=981902at2759	Winged helix-like DNA-binding domain superfamily
+981902at2759	Duplicated	Scaffold0415	98780	85153	-	217.2	215	https://v10-1.orthodb.org/?query=981902at2759	Winged helix-like DNA-binding domain superfamily
+996662at2759	Complete	Scaffold0044	553849	561786	+	242.8	214	https://v10-1.orthodb.org/?query=996662at2759	Exoribonuclease, phosphorolytic domain 1
+1001705at2759	Complete	Scaffold0008	155241	142707	-	283.8	262	https://v10-1.orthodb.org/?query=1001705at2759	WD40 repeat
+1003258at2759	Complete	Scaffold0118	1063206	1070178	+	307.1	285	https://v10-1.orthodb.org/?query=1003258at2759	GPI mannosyltransferase 1
+1010730at2759	Complete	Scaffold0652	150896	116837	-	430.1	264	https://v10-1.orthodb.org/?query=1010730at2759	Winged helix-like DNA-binding domain superfamily
+1014314at2759	Complete	Scaffold0466	387013	328013	-	270.4	215	https://v10-1.orthodb.org/?query=1014314at2759	WD40-repeat-containing domain
+1018517at2759	Complete	Scaffold0353	433909	470092	+	311.4	208	https://v10-1.orthodb.org/?query=1018517at2759	Tetrapyrrole methylase
+1019762at2759	Complete	Scaffold0567	205503	139511	-	345.2	378	https://v10-1.orthodb.org/?query=1019762at2759	Signal recognition particle subunit SRP68
+1025450at2759	Complete	Scaffold0222	383846	377348	-	311.5	301	https://v10-1.orthodb.org/?query=1025450at2759	WD40 repeat
+1030907at2759	Complete	Scaffold0172	420819	425700	+	340.9	278	https://v10-1.orthodb.org/?query=1030907at2759	Golgi to ER traffic protein 4
+1032689at2759	Complete	Scaffold0156	497260	492878	-	201.4	156	https://v10-1.orthodb.org/?query=1032689at2759	tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14
+1038775at2759	Complete	Scaffold0449	331180	342645	+	184.6	203	https://v10-1.orthodb.org/?query=1038775at2759	Eukaryotic translation initiation factor 3 subunit F
+1041560at2759	Complete	Scaffold0051	362417	374079	+	222.5	258	https://v10-1.orthodb.org/?query=1041560at2759	Mitochondrial import inner membrane translocase subunit TIM44
+1049599at2759	Complete	Scaffold0120	602708	591024	-	388.7	301	https://v10-1.orthodb.org/?query=1049599at2759	WD40-repeat-containing domain
+1051021at2759	Complete	Scaffold0127	783637	775217	-	375.1	322	https://v10-1.orthodb.org/?query=1051021at2759	ALG11 mannosyltransferase
+1053181at2759	Duplicated	Scaffold0833	31405	19668	-	101.6	173	https://v10-1.orthodb.org/?query=1053181at2759	Checkpoint protein Hus1/Mec3
+1053181at2759	Duplicated	Scaffold0103	1192795	1200257	+	99.6	155	https://v10-1.orthodb.org/?query=1053181at2759	Checkpoint protein Hus1/Mec3
+1057950at2759	Complete	Scaffold0163	387	6295	+	284.5	228	https://v10-1.orthodb.org/?query=1057950at2759	MEMO1 family
+1065019at2759	Complete	Scaffold0176	143189	165063	+	326.6	252	https://v10-1.orthodb.org/?query=1065019at2759	Diphosphomevalonate decarboxylase
+1076134at2759	Complete	Scaffold0037	254391	263912	+	271.8	186	https://v10-1.orthodb.org/?query=1076134at2759	F-actin-capping protein subunit alpha/beta
+1079130at2759	Complete	Scaffold0093	423009	413423	-	345.6	239	https://v10-1.orthodb.org/?query=1079130at2759	Glycosyl transferase, family 4
+1079827at2759	Missing
+1085752at2759	Complete	Scaffold0138	319482	311564	-	251.2	224	https://v10-1.orthodb.org/?query=1085752at2759	Atg6/Beclin
+1087488at2759	Complete	Scaffold0323	394669	407840	+	279.6	286	https://v10-1.orthodb.org/?query=1087488at2759	CTLH, C-terminal LisH motif
+1090038at2759	Complete	Scaffold0443	261878	267317	+	160.5	138	https://v10-1.orthodb.org/?query=1090038at2759	Lipoyltransferase/lipoate-protein ligase
+1094121at2759	Complete	Scaffold0102	1027121	1032486	+	137.5	131	https://v10-1.orthodb.org/?query=1094121at2759	ESCRT-II complex, Vps25 subunit
+1096688at2759	Complete	Scaffold0011	1239672	1229060	-	357.1	213	https://v10-1.orthodb.org/?query=1096688at2759	GPN-loop GTPase
+1106766at2759	Duplicated	Scaffold0362	126628	89949	-	189.0	203	https://v10-1.orthodb.org/?query=1106766at2759	Nuclear pore localisation protein NPL4, C-terminal
+1106766at2759	Duplicated	Scaffold0666	120654	113844	-	189.2	200	https://v10-1.orthodb.org/?query=1106766at2759	Nuclear pore localisation protein NPL4, C-terminal
+1107630at2759	Complete	Scaffold0266	96296	83919	-	282.3	208	https://v10-1.orthodb.org/?query=1107630at2759	Dolichyl-phosphate beta-glucosyltransferase
+1108845at2759	Complete	Scaffold0048	1518603	1517274	-	519.1	328	https://v10-1.orthodb.org/?query=1108845at2759	COP9 signalosome complex subunit 2
+1111142at2759	Complete	Scaffold0065	495045	488870	-	280.2	287	https://v10-1.orthodb.org/?query=1111142at2759	Transcription factor IIIC subunit 5, HTH domain
+1112002at2759	Missing
+1115196at2759	Fragmented	Scaffold0139	293184	294100	+	83.1	154	https://v10-1.orthodb.org/?query=1115196at2759	Ferrodoxin-fold anticodon-binding domain
+1128607at2759	Complete	Scaffold0376	82155	68551	-	361.4	252	https://v10-1.orthodb.org/?query=1128607at2759	Electron transfer flavoprotein, alpha subunit, C-terminal
+1129824at2759	Complete	Scaffold0058	738454	743345	+	133.7	139	https://v10-1.orthodb.org/?query=1129824at2759	Co-chaperone Hsc20
+1138059at2759	Complete	Scaffold0003	3516221	3507996	-	319.9	208	https://v10-1.orthodb.org/?query=1138059at2759	Methyltransferase type 11
+1157302at2759	Complete	Scaffold0205	365885	355055	-	372.7	204	https://v10-1.orthodb.org/?query=1157302at2759	Eukaryotic translation initiation factor 6
+1161199at2759	Complete	Scaffold0137	247558	236803	-	144.9	174	https://v10-1.orthodb.org/?query=1161199at2759	Coatomer subunit epsilon
+1173229at2759	Complete	Scaffold0279	192542	202903	+	177.5	201	https://v10-1.orthodb.org/?query=1173229at2759	WD40 repeat
+1178688at2759	Complete	Scaffold0145	766119	757942	-	119.1	139	https://v10-1.orthodb.org/?query=1178688at2759	ATPase, OSCP/delta subunit
+1182451at2759	Complete	Scaffold0886	6941	12005	+	171.4	153	https://v10-1.orthodb.org/?query=1182451at2759	SNARE
+1193442at2759	Complete	Scaffold0015	353015	363713	+	352.2	261	https://v10-1.orthodb.org/?query=1193442at2759	Bystin
+1194691at2759	Complete	Scaffold0397	360279	418192	+	474.7	276	https://v10-1.orthodb.org/?query=1194691at2759	26S Proteasome non-ATPase regulatory subunit 6
+1194797at2759	Complete	Scaffold0036	380197	416056	+	496.9	442	https://v10-1.orthodb.org/?query=1194797at2759	Eukaryotic translation initiation factor 3 subunit B
+1197019at2759	Complete	Scaffold0138	882311	887272	+	172.5	148	https://v10-1.orthodb.org/?query=1197019at2759	HORMA domain
+1200489at2759	Complete	Scaffold0034	146713	155123	+	119.2	112	https://v10-1.orthodb.org/?query=1200489at2759	Exosome complex component CSL4, C-terminal
+1217666at2759	Complete	Scaffold0018	1076513	1083283	+	258.2	178	https://v10-1.orthodb.org/?query=1217666at2759	Ribosome maturation protein SBDS, N-terminal
+1220881at2759	Complete	Scaffold0230	490080	497639	+	147.9	153	https://v10-1.orthodb.org/?query=1220881at2759	TFIIH subunit Tfb4/GTF2H3
+1222562at2759	Complete	Scaffold0036	1130461	1133473	+	166.5	116	https://v10-1.orthodb.org/?query=1222562at2759	Ribosome biogenesis protein
+1223488at2759	Complete	Scaffold0174	646536	650842	+	77.0	111	https://v10-1.orthodb.org/?query=1223488at2759	OPI10 family
+1228942at2759	Complete	Scaffold0214	331958	342835	+	215.1	164	https://v10-1.orthodb.org/?query=1228942at2759	Proteasome subunit beta
+1233814at2759	Complete	Scaffold0120	1076391	1062093	-	239.2	155	https://v10-1.orthodb.org/?query=1233814at2759	Vacuolar protein sorting-associated protein 29
+1236198at2759	Complete	Scaffold0172	727805	730635	+	205.5	126	https://v10-1.orthodb.org/?query=1236198at2759	G10 protein
+1247641at2759	Duplicated	Scaffold0353	75748	49907	-	153.9	163	https://v10-1.orthodb.org/?query=1247641at2759	N-acetylglucosaminyl transferase component
+1247641at2759	Duplicated	Scaffold0978	62334	60477	-	153.9	160	https://v10-1.orthodb.org/?query=1247641at2759	N-acetylglucosaminyl transferase component
+1248958at2759	Complete	Scaffold0003	1862003	1832855	-	678.5	639	https://v10-1.orthodb.org/?query=1248958at2759	Exportin-2, central domain
+1249159at2759	Complete	Scaffold0084	429662	433137	+	182.1	152	https://v10-1.orthodb.org/?query=1249159at2759	GINS complex, subunit Psf1
+1251252at2759	Duplicated	Scaffold0334	554122	551629	-	91.3	83	https://v10-1.orthodb.org/?query=1251252at2759	Mediator complex, subunit Med6
+1251252at2759	Duplicated	Scaffold1121	38869	41412	+	90.6	82	https://v10-1.orthodb.org/?query=1251252at2759	Mediator complex, subunit Med6
+1257440at2759	Duplicated	Scaffold0206	206720	196690	-	166.4	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1257440at2759	Duplicated	Scaffold0415	77362	84531	+	166.3	129	https://v10-1.orthodb.org/?query=1257440at2759	PUA domain
+1258856at2759	Duplicated	Scaffold0974	94800	131585	+	595.3	609	https://v10-1.orthodb.org/?query=1258856at2759	Vps16, C-terminal
+1258856at2759	Duplicated	Scaffold0441	159168	191209	+	631.4	604	https://v10-1.orthodb.org/?query=1258856at2759	Vps16, C-terminal
+1259741at2759	Complete	Scaffold0659	65982	37470	-	405.5	238	https://v10-1.orthodb.org/?query=1259741at2759	GPI-anchor transamidase
+1260807at2759	Complete	Scaffold0524	36870	33183	-	271.8	222	https://v10-1.orthodb.org/?query=1260807at2759	Protohaem IX farnesyltransferase
+1264469at2759	Complete	Scaffold0130	878384	855738	-	171.7	152	https://v10-1.orthodb.org/?query=1264469at2759	Ubiquinone biosynthesis protein Coq4
+1266231at2759	Complete	Scaffold0130	579037	587771	+	298.9	189	https://v10-1.orthodb.org/?query=1266231at2759	Ribosomal biogenesis, methyltransferase, EMG1/NEP1
+1269244at2759	Complete	Scaffold0158	937101	924629	-	89.4	119	https://v10-1.orthodb.org/?query=1269244at2759	RWD domain
+1269649at2759	Complete	Scaffold0163	172911	139906	-	285.7	167	https://v10-1.orthodb.org/?query=1269649at2759	K Homology domain
+1275837at2759	Complete	Scaffold0357	455049	446017	-	397.9	244	https://v10-1.orthodb.org/?query=1275837at2759	26S Proteasome non-ATPase regulatory subunit 7/8
+1284731at2759	Complete	Scaffold0467	363326	355854	-	108.5	125	https://v10-1.orthodb.org/?query=1284731at2759	K Homology domain, type 1
+1287094at2759	Complete	Scaffold0027	473854	468115	-	168.5	127	https://v10-1.orthodb.org/?query=1287094at2759	Snf7 family
+1287401at2759	Complete	Scaffold0027	752889	794281	+	265.3	164	https://v10-1.orthodb.org/?query=1287401at2759	Cytochrome c oxidase assembly protein CtaG/Cox11
+1291729at2759	Duplicated	Scaffold0176	119398	121418	+	85.9	114	https://v10-1.orthodb.org/?query=1291729at2759	GINS complex, subunit Psf3
+1291729at2759	Duplicated	Scaffold0337	567306	569330	+	85.9	114	https://v10-1.orthodb.org/?query=1291729at2759	GINS complex, subunit Psf3
+1304061at2759	Complete	Scaffold0075	238097	226899	-	188.3	133	https://v10-1.orthodb.org/?query=1304061at2759	RNA polymerase II subunit A
+1309031at2759	Duplicated	Scaffold1437	31262	7379	-	312.3	343	https://v10-1.orthodb.org/?query=1309031at2759	CDC45 family
+1309031at2759	Duplicated	Scaffold0003	3771395	3750872	-	307.6	343	https://v10-1.orthodb.org/?query=1309031at2759	CDC45 family
+1312453at2759	Complete	Scaffold0037	174700	229446	+	683.7	642	https://v10-1.orthodb.org/?query=1312453at2759	WD40-repeat-containing domain
+1314980at2759	Complete	Scaffold0118	1031182	1046277	+	548.4	513	https://v10-1.orthodb.org/?query=1314980at2759	Cleavage and polyadenylation specificity factor subunit 2
+1322299at2759	Missing
+1322642at2759	Missing
+1323575at2759	Complete	Scaffold0334	139285	151771	+	178.3	113	https://v10-1.orthodb.org/?query=1323575at2759	GNAT domain
+1324510at2759	Complete	Scaffold0011	1239916	1257212	+	325.9	264	https://v10-1.orthodb.org/?query=1324510at2759	NADPH
+1338131at2759	Complete	Scaffold0155	430533	424822	-	261.7	142	https://v10-1.orthodb.org/?query=1338131at2759	PIN domain
+1339553at2759	Duplicated	Scaffold0024	474630	440414	-	251.2	244	https://v10-1.orthodb.org/?query=1339553at2759	GPI transamidase subunit PIG-U
+1339553at2759	Duplicated	Scaffold0844	135091	145859	+	251.1	241	https://v10-1.orthodb.org/?query=1339553at2759	GPI transamidase subunit PIG-U
+1342242at2759	Complete	Scaffold0018	87523	85145	-	177.8	171	https://v10-1.orthodb.org/?query=1342242at2759	Aminomethyltransferase, folate-binding domain
+1346165at2759	Complete	Scaffold0028	506796	523899	+	349.7	268	https://v10-1.orthodb.org/?query=1346165at2759	DNA primase, small subunit
+1346432at2759	Complete	Scaffold0002	1036108	1027282	-	128.0	138	https://v10-1.orthodb.org/?query=1346432at2759	U3 small nucleolar RNA-associated protein 11
+1348942at2759	Missing
+1355894at2759	Duplicated	Scaffold0047	363484	359349	-	224.0	142	https://v10-1.orthodb.org/?query=1355894at2759	GNAT domain
+1355894at2759	Duplicated	Scaffold1503	6670	3314	-	224.0	142	https://v10-1.orthodb.org/?query=1355894at2759	GNAT domain
+1358374at2759	Missing
+1364586at2759	Complete	Scaffold0195	493499	487488	-	118.4	143	https://v10-1.orthodb.org/?query=1364586at2759	rRNA-processing protein Fcf1/Utp23
+1370285at2759	Missing
+1370304at2759	Fragmented	Scaffold0713	237494	236897	-	27.3	41	https://v10-1.orthodb.org/?query=1370304at2759	-alpha-acetyltransferase 35, NatC auxiliary subunit
+1377237at2759	Complete	Scaffold0002	2986447	2992997	+	166.1	146	https://v10-1.orthodb.org/?query=1377237at2759	TIP41-like protein
+1379600at2759	Missing
+1380409at2759	Complete	Scaffold0003	1819115	1824379	+	209.5	139	https://v10-1.orthodb.org/?query=1380409at2759	NFACT, RNA-binding domain
+1382842at2759	Complete	Scaffold0126	465775	456135	-	148.6	122	https://v10-1.orthodb.org/?query=1382842at2759	DNA replication complex GINS protein PSF2
+1395649at2759	Complete	Scaffold0065	750373	736356	-	96.9	125	https://v10-1.orthodb.org/?query=1395649at2759	Signal peptidase complex subunit 2
+1398309at2759	Complete	Scaffold0041	1397024	1393077	-	100.5	106	https://v10-1.orthodb.org/?query=1398309at2759	CXXC motif containing zinc binding protein, eukaryotic
+1404162at2759	Complete	Scaffold0078	576684	570574	-	195.6	189	https://v10-1.orthodb.org/?query=1404162at2759	Origin recognition complex, subunit 2
+1405073at2759	Complete	Scaffold0450	117958	125023	+	244.2	159	https://v10-1.orthodb.org/?query=1405073at2759	PUA domain
+1405146at2759	Complete	Scaffold0248	436888	434915	-	147.8	133	https://v10-1.orthodb.org/?query=1405146at2759	26S Proteasome non-ATPase regulatory subunit 9
+1407446at2759	Complete	Scaffold0126	713779	723920	+	38.4	92	https://v10-1.orthodb.org/?query=1407446at2759	SRP-independent targeting protein 2/TMEM208
+1421503at2759	Complete	Scaffold0141	644894	650287	+	201.5	111	https://v10-1.orthodb.org/?query=1421503at2759	Nuclear cap-binding protein subunit 2
+1423847at2759	Complete	Scaffold0160	593824	589143	-	305.1	274	https://v10-1.orthodb.org/?query=1423847at2759	RNA 3'-terminal phosphate cyclase domain
+1426075at2759	Duplicated	Scaffold0150	990211	987563	-	106.5	98	https://v10-1.orthodb.org/?query=1426075at2759	Trafficking protein particle complex subunit 2
+1426075at2759	Duplicated	Scaffold0299	224947	222000	-	106.5	98	https://v10-1.orthodb.org/?query=1426075at2759	Trafficking protein particle complex subunit 2
+1428265at2759	Complete	Scaffold0773	85785	94277	+	209.6	190	https://v10-1.orthodb.org/?query=1428265at2759	Ubiquinol-cytochrome c chaperone, CBP3
+1428854at2759	Duplicated	Scaffold0219	88914	128546	+	467.7	303	https://v10-1.orthodb.org/?query=1428854at2759	RNA recognition motif domain
+1428854at2759	Duplicated	Scaffold0143	912859	944478	+	467.3	303	https://v10-1.orthodb.org/?query=1428854at2759	RNA recognition motif domain
+1430056at2759	Complete	Scaffold0036	1091070	1087491	-	123.2	130	https://v10-1.orthodb.org/?query=1430056at2759	RNA polymerase Rpb7-like , N-terminal
+1432328at2759	Duplicated	Scaffold0575	104321	68882	-	278.2	180	https://v10-1.orthodb.org/?query=1432328at2759	Autophagy-related protein 3
+1432328at2759	Duplicated	Scaffold0030	58098	49464	-	277.3	178	https://v10-1.orthodb.org/?query=1432328at2759	Autophagy-related protein 3
+1434266at2759	Complete	Scaffold0021	1398027	1408313	+	140.2	136	https://v10-1.orthodb.org/?query=1434266at2759	DNA replication complex GINS protein SLD5
+1440961at2759	Complete	Scaffold0193	700041	691008	-	169.9	185	https://v10-1.orthodb.org/?query=1440961at2759	Rad1/Rec1/Rad17
+1441854at2759	Duplicated	Scaffold0020	252838	228261	-	254.8	208	https://v10-1.orthodb.org/?query=1441854at2759	Deoxyhypusine hydroxylase
+1441854at2759	Duplicated	Scaffold0910	159085	152494	-	254.7	208	https://v10-1.orthodb.org/?query=1441854at2759	Deoxyhypusine hydroxylase
+1442062at2759	Complete	Scaffold0152	169786	171122	+	183.3	211	https://v10-1.orthodb.org/?query=1442062at2759	Cytoplasmic tRNA 2-thiolation protein 2
+1445102at2759	Complete	Scaffold0125	26743	18823	-	292.4	192	https://v10-1.orthodb.org/?query=1445102at2759	Glycosyltransferase 2-like
+1450538at2759	Complete	Scaffold0977	122582	117391	-	180.0	151	https://v10-1.orthodb.org/?query=1450538at2759	Vta1, C-terminal
+1454155at2759	Complete	Scaffold0025	1944209	1934367	-	74.9	95	https://v10-1.orthodb.org/?query=1454155at2759	Cdk-activating kinase assembly factor MAT1, centre
+1455730at2759	Complete	Scaffold0025	302437	289409	-	485.0	356	https://v10-1.orthodb.org/?query=1455730at2759	SKI-interacting protein, SKIP
+1459797at2759	Duplicated	Scaffold0053	1472161	1474555	+	88.8	96	https://v10-1.orthodb.org/?query=1459797at2759	Prefoldin subunit 4
+1459797at2759	Duplicated	Scaffold0079	8770	12559	+	87.2	96	https://v10-1.orthodb.org/?query=1459797at2759	Prefoldin subunit 4
+1474000at2759	Complete	Scaffold0186	333180	301689	-	106.3	137	https://v10-1.orthodb.org/?query=1474000at2759	Translocation protein Sec62
+1479417at2759	Duplicated	Scaffold0019	1563499	1531095	-	303.2	177	https://v10-1.orthodb.org/?query=1479417at2759	SF3B4, RNA recognition motif 1
+1479417at2759	Duplicated	Scaffold0286	162660	174373	+	301.5	177	https://v10-1.orthodb.org/?query=1479417at2759	SF3B4, RNA recognition motif 1
+1479417at2759	Duplicated	Scaffold0020	623679	614403	-	282.6	171	https://v10-1.orthodb.org/?query=1479417at2759	SF3B4, RNA recognition motif 1
+1488235at2759	Complete	Scaffold0051	1488420	1495132	+	192.5	141	https://v10-1.orthodb.org/?query=1488235at2759	Adenylate kinase isoenzyme 6
+1488436at2759	Complete	Scaffold0160	618938	629961	+	126.6	63	https://v10-1.orthodb.org/?query=1488436at2759	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+1490022at2759	Complete	Scaffold0018	1961838	1967564	+	208.8	170	https://v10-1.orthodb.org/?query=1490022at2759	SUI1 domain
+1504863at2759	Complete	Scaffold0008	182166	179183	-	182.1	148	https://v10-1.orthodb.org/?query=1504863at2759	Trafficking protein particle complex subunit
+1513531at2759	Duplicated	Scaffold0970	78154	100371	+	284.7	197	https://v10-1.orthodb.org/?query=1513531at2759	Pre-mRNA-splicing factor Isy1
+1513531at2759	Duplicated	Scaffold0508	276826	269365	-	268.2	189	https://v10-1.orthodb.org/?query=1513531at2759	Pre-mRNA-splicing factor Isy1
+1525971at2759	Complete	Scaffold0036	253879	262971	+	114.6	80	https://v10-1.orthodb.org/?query=1525971at2759	Ubiquitin-like protein ATG12
+1526152at2759	Complete	Scaffold0031	320985	321369	+	104.8	85	https://v10-1.orthodb.org/?query=1526152at2759	NADH dehydrogenase 
+1530008at2759	Complete	Scaffold0010	735854	731697	-	88.0	87	https://v10-1.orthodb.org/?query=1530008at2759	H/ACA ribonucleoprotein complex subunit
+1538526at2759	Complete	Scaffold0612	186384	194001	+	143.1	104	https://v10-1.orthodb.org/?query=1538526at2759	Ribosomal protein L7Ae/L30e/S12e/Gadd45
+1545004at2759	Duplicated	Scaffold0331	571429	572852	+	120.8	72	https://v10-1.orthodb.org/?query=1545004at2759	LSM domain, eukaryotic/archaea-type
+1545004at2759	Duplicated	Scaffold0411	6221	8091	+	120.7	72	https://v10-1.orthodb.org/?query=1545004at2759	LSM domain, eukaryotic/archaea-type
+1552706at2759	Duplicated	Scaffold0227	14139	11878	-	104.8	93	https://v10-1.orthodb.org/?query=1552706at2759	Signal recognition particle, SRP19 subunit
+1552706at2759	Duplicated	Scaffold0393	455282	453022	-	104.8	93	https://v10-1.orthodb.org/?query=1552706at2759	Signal recognition particle, SRP19 subunit
+1558822at2759	Complete	Scaffold0483	162442	154537	-	113.5	67	https://v10-1.orthodb.org/?query=1558822at2759	LSM domain, eukaryotic/archaea-type
+1563319at2759	Missing
+1567796at2759	Complete	Scaffold0145	383947	377183	-	147.3	133	https://v10-1.orthodb.org/?query=1567796at2759	Prefoldin
+1575179at2759	Duplicated	Scaffold0397	194049	202394	+	55.6	55	https://v10-1.orthodb.org/?query=1575179at2759	COX assembly mitochondrial protein
+1575179at2759	Duplicated	Scaffold0751	147825	151537	+	54.2	55	https://v10-1.orthodb.org/?query=1575179at2759	COX assembly mitochondrial protein
+1576404at2759	Complete	Scaffold0076	259601	264526	+	147.4	143	https://v10-1.orthodb.org/?query=1576404at2759	Pre-mRNA-splicing factor  Cwf15/Cwc15
+1588798at2759	Missing
+1593937at2759	Complete	Scaffold0009	2406314	2399023	-	84.1	156	https://v10-1.orthodb.org/?query=1593937at2759	Ribosomal protein S23/S29, mitochondrial
+1617752at2759	Complete	Scaffold0092	212877	216294	+	139.8	95	https://v10-1.orthodb.org/?query=1617752at2759	Transcription elongation factor SPT4
+1620056at2759	Complete	Scaffold0140	771924	772482	+	71.9	74	https://v10-1.orthodb.org/?query=1620056at2759	Ribosomal protein/NADH dehydrogenase domain
+1623701at2759	Complete	Scaffold0062	275217	267586	-	123.9	98	https://v10-1.orthodb.org/?query=1623701at2759	TMEM85/ER membrane protein complex subunit 4
+1626636at2759	Missing
+1633672at2759	Missing
+1645187at2759	Complete	Scaffold0013	2429486	2428050	-	55.5	47	https://v10-1.orthodb.org/?query=1645187at2759	PDCD5-like
