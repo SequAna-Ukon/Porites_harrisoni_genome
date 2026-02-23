@@ -5,7 +5,7 @@ Scripts used for the _Porites harrisoni_ reference genome assembly and annotatio
 
 Raw gDNA sequencing data (Oxford Nanopore long-reads) are deposited at NCBI under the BioProject PRJNA1111311 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1111311) and raw RNA-Seq data are deposited under the BioProject PRJNA1354406 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1354406), both accessible under the Umbrella BioProject PRJNA749006 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749006). This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JBDLLT000000000 (https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000). The *Porites harrisoni* genome is version JBDLLT020000000. 
 
-## Assembly
+## Assembly Scripts
 * **00.reads_preprocessing.sh**
 
 ONT reads were preprocessed using PoreChop (https://github.com/rrwick/Porechop) and quality control was done using FastQC (https://github.com/s-andrews/FastQC) and NanoPlot (https://github.com/wdecoster/NanoPlot). The reads were filtered and split into assembly reads (longer; min. length 1000 bp) & polishing reads (shorter; min. length 500 bp) using chopper (https://github.com/wdecoster/chopper).
@@ -30,7 +30,7 @@ The assembled and filtered genome was polished using the shorter polishing reads
 
 Additionally, a single-contig mitochondrial genome was assembled using Canu (https://github.com/marbl/canu), circularized with Circlator (https://github.com/sanger-pathogens/circlator) and polished with racon. 
 
-## Annotation
+## Annotation Scripts
 * **06.repeats.sh**
   
 Repeats in the _Porites harrisoni_ genome were identified using EDTA (https://github.com/oushujun/EDTA) & RepeatModeler (https://github.com/Dfam-consortium/RepeatModeler) and soft-masked using RepeatMasker (https://github.com/rmhubley/RepeatMasker).
