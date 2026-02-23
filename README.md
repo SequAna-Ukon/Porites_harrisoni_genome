@@ -45,11 +45,11 @@ The predicted genes were annotated using InterProScan (https://github.com/ebi-pf
 
 ## Figures
 
-The folder **figures** contains data and references to reproduce Figures 1 - 5 in the respective manuscript. Please refer to **/figures/README.md**.
+The folder **/figures/** contains data and references to reproduce Figures 1 - 5 in the respective manuscript. Please refer to **/figures/README.md**.
 
 ## BUSCO
 
-The folder **BUSCO** contains the BUSCO scores for the assembly and annotation of the *Porites harrisoni* genome assembly and annotation available under https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000. 
+The folder **/BUSCO/** contains the BUSCO scores for the assembly and annotation of the *Porites harrisoni* genome assembly and annotation available under https://www.ncbi.nlm.nih.gov/nuccore/JBDLLT000000000. 
 
 
 
