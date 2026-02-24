@@ -12,11 +12,11 @@ ONT reads were preprocessed using PoreChop (https://github.com/rrwick/Porechop) 
 
 * **01.kmer_genome_size.sh**
   
-Kmer profiling was done using meryl (https://github.com/marbl/meryl) and GenomeScope 2.0 (https://github.com/tbenavi1/genomescope2.0).
+Kmer profiling was done using Meryl (https://github.com/marbl/meryl) and GenomeScope 2.0 (https://github.com/tbenavi1/genomescope2.0).
 
 * **02.assembly_NECAT.sh**
   
-The genome was assembled with NECAT (https://github.com/xiaochuanle/NECAT) using the longer assembly reads (see above) and the assembly was assessed using gfastats (https://github.com/vgl-hub/gfastats) and BUSCO (https://github.com/metashot/busco). The genome coverage was assessed by mapping the assembly to a Porites reference database from NCBI with bwa (https://github.com/lh3/bwa).
+The genome was assembled with NECAT (https://github.com/xiaochuanle/NECAT) using the longer assembly reads (see above) and the assembly was assessed using gfastats (https://github.com/vgl-hub/gfastats) and BUSCO (https://github.com/metashot/busco). The genome coverage was assessed by mapping the assembly to a *Porites* reference database from NCBI with bwa (https://github.com/lh3/bwa).
 
 * **03.assembly_filtering.sh**
   
@@ -24,11 +24,11 @@ The assembly was filtered using BlobToolKit (https://blobtoolkit.genomehubs.org/
 
 * **04.assembly_polish.sh**
   
-The assembled and filtered genome was polished using the shorter polishing reads with racon (https://github.com/lbcb-sci/racon) and Medaka (https://github.com/nanoporetech/medaka). The polished assembly was cleaned and headers were renamed and sorted using funannotate clean and funannotate sort (https://github.com/nextgenusfs/funannotate).
+The assembled and filtered genome was polished using the shorter polishing reads with Racon (https://github.com/lbcb-sci/racon) and Medaka (https://github.com/nanoporetech/medaka). The polished assembly was cleaned, contigs shorter than 200 bp were removed and headers were renamed and sorted using funannotate clean and funannotate sort (https://github.com/nextgenusfs/funannotate).
 
 * **05.mitogenome.sh**
 
-Additionally, a single-contig mitochondrial genome was assembled using Canu (https://github.com/marbl/canu), circularized with Circlator (https://github.com/sanger-pathogens/circlator) and polished with racon. 
+Additionally, a single-contig mitochondrial genome was assembled using Canu (https://github.com/marbl/canu), circularized with Circlator (https://github.com/sanger-pathogens/circlator) and polished with Racon. 
 
 ## Annotation Scripts
 * **06.repeats.sh**
